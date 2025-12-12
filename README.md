@@ -36,6 +36,18 @@ Gothos25
 * Revelation - A Main Quest Overhaul
 * Take Your Time
 
+QoL Features
+* SmartHeal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
+* Smart Inventory: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
+  * Tip: Transfer grenades and mines to the Smart Inventory to set a carry limit on that item. You want to do this for the explosives you like or Smart Inventory will automatically transfer all of your grenades and mines to the ship’s inventory. You can keep transferring a single Frag Grenade in your inventory to set the carry limit you want. Setting the Smart Inventory Frag Grenade to 5 will make it so you cannot pick up more than 5 Frag Grenades out in the world. 
+* Vehicles: REV-8-Pro, Better Deimog, HopeTech Hammer V
+* Faction Quests Give Skill Points: The UC Vanguard, Freestar Rangers, and Ryujin questlines grant skill points.
+* Apotheosis - Powers Overhaul: Overhauls powers for improved utility and immersion (see mod page).
+* Revelation - Main Quest Overhaul: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
+* Warriors Better Scanner: Scanner rework.
+* NPC Enhancer Gun: Take off ALL modded clothing on YOUR player character before applying the CharGen presets on followers. Make sure to put your name and your pronouns when saving the character.
+* Ship Builder Configurator: Go to the Gameplay Options and change any of the Ship Builder settings to your preferences. 
+
 ## Pre-install
 
 1. Make sure you have a clean version of Starfield installed. If you modded Starfield with Vortex, you will have to reinstall the game.
@@ -98,3 +110,18 @@ The following popular paid mods are supported and work with this modlist. If you
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 * Falkland Systems Ship Services
   * Falkland Systems: The PDY Patch (Free, download this too if you want to use Falkland)
+ 
+## Recommended Gameplay Settings
+* Ammo Weight - Weighted Ammo
+* Affliction Treatment - Improve Only
+* Affliction Prognosis - Advanced
+* Environmental Damage & Afflictions - Advanced
+* TN: Cargo Multiplier - x1 (Vanilla)
+* GRiNDTerraverse Encounters Chance - Less Probability 
+* CoS: Mode - Realfuel
+* Real 02: Boost Pack 02 Usage - Disabled
+* Suit Display - Settlements - Prepared
+* Suit Display - Settlements - Casual
+
+## Recommended Display Settings
+* Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
