@@ -8,6 +8,34 @@ Novafield is an immersive roleplaying experience built around rbt/ S1nderion's m
 
 Novafield is a stable modlist that currently utilizes over 500 mods.
 
+# Modlist
+
+The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafield. 
+
+Key mods from top authors:
+
+S1nderion (rbtRvIt)
+* Balanced Ballistics
+* Configurable Spacesuit Auto-Hide
+* Cost Of Living
+* Cost Of Spacing
+* Deadly Effective
+* Magic Boost Disabler
+* Peak Performance
+* Real Fuel
+* Real 02
+* Roverhaul
+* Spacefaring Economy
+* Suit Up
+* Variable Contraband Prices - Redux
+
+Gothos25
+* Apotheosis
+* Bedlam
+* Desolation
+* Revelation - A Main Quest Overhaul
+* Take Your Time
+
 ## Pre-install
 
 1. Make sure you have a clean version of Starfield installed. If you modded Starfield with Vortex, you will have to reinstall the game.
@@ -51,3 +79,22 @@ In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top ri
 Exit the game. In MO2, click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. Have fun!
 
 NOTE: I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
+
+# Supported/ Recommended Paid Mods (Optional)
+
+This modlist was built with compatability in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
+
+The following paid mopds are recommended to improve the experience. 
+* Starfield Spacer Overhaul
+* The Space Economy (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay tab in MO2)
+*   Cost of Living - Simple Taxes
+*   Cost of Spacing
+*   Spacefaring Economy
+* Real Fuel (If you want to use the Creations version of Real Fuel, disable the following in the Gameplay tab in MO2)
+*   Real Fuel - Immersive Exporation
+
+The following popular paid mods are supported and work with this modlist. If you want to know if a ceratin paid mod will conflict with the modlist, please join the Discord and ask.
+* Watchtower
+*   Not Yet Watchtower (Free)
+* Falkland Systems Ship Services
+*   Falkland Systems: The PDY Patch (Free)
