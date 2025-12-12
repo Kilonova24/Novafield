@@ -84,7 +84,7 @@ NOTE: I recommend making a save and quitting the game after you leave the Altern
 
 This modlist was built with compatability in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
 
-The following paid mopds are recommended to improve the experience. 
+The following paid mods are recommended to improve the experience. 
 * Starfield Spacer Overhaul
 * The Space Economy (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay tab in MO2)
 *   Cost of Living - Simple Taxes
