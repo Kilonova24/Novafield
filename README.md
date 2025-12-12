@@ -2,9 +2,11 @@
   <a href="https://loadorderlibrary.com/lists/novafield">Full Modlist</a> |
   <a href="https://discord.gg/KM2eMWr2Vc">Discord</a>
 
-# How To Install Novafield
+# Preamble
 
-PRE-INSTALL
+Novafield is an immersive roleplaying experience built around rbt/ S1nderion's mod suite. This modlist comes with new weapons, ship parts, quests, quest expansions, audio overhaul, UI overhaul, companion overhaul, and so much more. This modlist was carefully curated to create a fun and immersive Starfield experience. It also includes several custom patches to maximize mod compatability. 
+
+## Pre-install
 
 1. Make sure you have a clean version of Starfield installed. If you modded Starfield with Vortex, you will have to reinstall the game.
 
@@ -14,7 +16,7 @@ PRE-INSTALL
 
 4. Set your page file to 40GB. Right click the Start Button. Click System. Click Advanced Systems Settings. On the Advanced tab, click Settings in the Performance section. On the Advanced tab, click the Change button. Set the Initial Size and Maximum Size to 40960. If you are struggling for drive space, put it to at least 20000.
 
-INSTALLATION
+## Installation
 
 1. Download Wabbajack from the official site: https://www.wabbajack.org/. Install Wabbajack to a non protected folder (Not Program Files).
 
@@ -24,7 +26,7 @@ INSTALLATION
 
 4. Install the list. Choose where you want the modlist installed (make sure you have plenty of free space and put outside of a protected folder). Let Wabbajack do its work — it will download and install everything automatically.
 
-POST-INSTALL
+## Post-install
 
 In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top right. Go to the Creations Menu in game and download the following mods: 
 
