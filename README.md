@@ -94,7 +94,7 @@ The following paid mods are recommended to improve the experience.
   * Real Fuel - Immersive Exporation
 
 The following popular paid mods are supported and work with this modlist. If you want to know if a ceratin paid mod will conflict with the modlist, please join the Discord and ask.
-* Watchtower
-  * Not Yet Watchtower (Free)
+* Watchtower 
+  * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 * Falkland Systems Ship Services
-  * Falkland Systems: The PDY Patch (Free)
+  * Falkland Systems: The PDY Patch (Free, download this too if you want to use Falkland)
