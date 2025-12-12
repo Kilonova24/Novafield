@@ -2,23 +2,23 @@ How to install Novafield.
 
 PRE-INSTALL
 
-Make sure you have a clean version of Starfield installed. If you modded Starfield with Vortex, you will have to reinstall the game.
+1. Make sure you have a clean version of Starfield installed. If you modded Starfield with Vortex, you will have to reinstall the game.
 
-Install Microsoft .NET v8.0 Desktop Runtime from this link if you do not already have it: https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.5/dotnet-runtime-8.0.5-win-x64.exe
+2. Install Microsoft .NET v8.0 Desktop Runtime from this link if you do not already have it: https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.5/dotnet-runtime-8.0.5-win-x64.exe
 
-Install Microsoft Visual C++ 2019 Runtime from this link if you do not already have it: https://aka.ms/vs/17/release/vc_redist.x64.exe
+3. Install Microsoft Visual C++ 2019 Runtime from this link if you do not already have it: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-Set your page file to 40GB. Right click the Start Button. Click System. Click Advanced Systems Settings. On the Advanced tab, click Settings in the Performance section. On the Advanced tab, click the Change button. Set the Initial Size and Maximum Size to 40960. If you are struggling for drive space, put it to at least 20000.
+4. Set your page file to 40GB. Right click the Start Button. Click System. Click Advanced Systems Settings. On the Advanced tab, click Settings in the Performance section. On the Advanced tab, click the Change button. Set the Initial Size and Maximum Size to 40960. If you are struggling for drive space, put it to at least 20000.
 
 INSTALLATION
 
-Download Wabbajack from the official site: https://www.wabbajack.org/. Install Wabbajack to a non protected folder (Not Program Files).
+1. Download Wabbajack from the official site: https://www.wabbajack.org/. Install Wabbajack to a non protected folder (Not Program Files).
 
-Download the Novafield Wabbajack Main File from here and extract it. https://www.nexusmods.com/starfield/mods/15309.
+2. Download the Novafield Wabbajack Main File from here and extract it. https://www.nexusmods.com/starfield/mods/15309.
 
-Go to where you installed Wabbajack and run Wabbajack.exe. Go to Browse lists tab. Click the Install from disk in the top right corner. Select the .wabbajack file you downloaded. This will load the list into Wabbajack.
+3. Go to where you installed Wabbajack and run Wabbajack.exe. Go to Browse lists tab. Click the Install from disk in the top right corner. Select the .wabbajack file you downloaded. This will load the list into Wabbajack.
 
-Install the list. Choose where you want the modlist installed (make sure you have plenty of free space and put outside of a protected folder). Let Wabbajack do its work — it will download and install everything automatically.
+4. Install the list. Choose where you want the modlist installed (make sure you have plenty of free space and put outside of a protected folder). Let Wabbajack do its work — it will download and install everything automatically.
 
 POST-INSTALL
 
