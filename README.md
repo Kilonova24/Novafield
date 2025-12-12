@@ -24,7 +24,7 @@ POST-INSTALL
 
 In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top right. Go to the Creations Menu in game and download the following mods: 
 
-Deimog (This is the only one that’s required)
+* Deimog (This is the only one that’s required)
 
 At Hell's Gate
 
