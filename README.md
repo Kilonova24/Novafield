@@ -2,7 +2,7 @@
   <a href="https://loadorderlibrary.com/lists/novafield">Full Modlist</a> |
   <a href="https://discord.gg/KM2eMWr2Vc">Discord</a>
 
-HOW TO INSTALL NOVAFIELD
+# HOW TO INSTALL NOVAFIELD
 
 PRE-INSTALL
 
