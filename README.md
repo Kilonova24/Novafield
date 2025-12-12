@@ -1,4 +1,4 @@
-Full Modlist
+Full Modlist: https://loadorderlibrary.com/lists/novafield
 
 How to install Novafield.
 
