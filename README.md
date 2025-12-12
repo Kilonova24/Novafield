@@ -87,14 +87,14 @@ This modlist was built with compatability in mind. In the world of paid mods, ma
 The following paid mods are recommended to improve the experience. 
 * Starfield Spacer Overhaul
 * The Space Economy (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay tab in MO2)
-*   Cost of Living - Simple Taxes
-*   Cost of Spacing
-*   Spacefaring Economy
+  * Cost of Living - Simple Taxes
+  * Cost of Spacing
+  * Spacefaring Economy
 * Real Fuel (If you want to use the Creations version of Real Fuel, disable the following in the Gameplay tab in MO2)
-*   Real Fuel - Immersive Exporation
+  * Real Fuel - Immersive Exporation
 
 The following popular paid mods are supported and work with this modlist. If you want to know if a ceratin paid mod will conflict with the modlist, please join the Discord and ask.
 * Watchtower
-*   Not Yet Watchtower (Free)
+  * Not Yet Watchtower (Free)
 * Falkland Systems Ship Services
-*   Falkland Systems: The PDY Patch (Free)
+  * Falkland Systems: The PDY Patch (Free)
