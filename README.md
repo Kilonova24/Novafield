@@ -97,18 +97,18 @@ NOTE: I recommend making a save and quitting the game after you leave the Altern
 This modlist was built with compatability in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
 
 The following paid mods are recommended to improve the experience. 
-* Starfield Spacer Overhaul
-* The Space Economy (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay tab in MO2)
+* [Starfield Spacer Overhaul](https://creations.bethesda.net/en/starfield/details/b541b057-8815-4892-be9c-abea7a292663/Starfield_Spacer_Overhaul)
+* [The Space Economy](https://creations.bethesda.net/en/starfield/details/eca053f6-3049-4e75-8f46-e9367d19eef8/The_Space_Economy) (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay tab in MO2)
   * Cost of Living - Simple Taxes
   * Cost of Spacing
   * Spacefaring Economy
-* Real Fuel (If you want to use the Creations version of Real Fuel, disable the following in the Gameplay tab in MO2)
+* [Real Fuel](https://creations.bethesda.net/en/starfield/details/f87ce109-d647-4d0b-be3f-1e763d8491ce/Real_Fuel___Immersive_Exploration) (If you want to use the Creations version of Real Fuel, disable the following in the Gameplay tab in MO2)
   * Real Fuel - Immersive Exporation
 
 The following popular paid mods are supported and work with this modlist. If you want to know if a ceratin paid mod will conflict with the modlist, please join the Discord and ask.
-* Watchtower 
+* [Watchtower ](https://creations.bethesda.net/en/starfield/details/5d455df7-d99f-4619-a383-f2b39aa21e00/Watchtower__Orbital_Strike__Fleet_Command)
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
-* Falkland Systems Ship Services
+* [Falkland Systems Ship Services](https://creations.bethesda.net/en/starfield/details/6cbf2c64-b736-4d95-bf06-38183a94b359/Falkland_Systems_Ship_Services)
   * Falkland Systems: The PDY Patch (Free, download this too if you want to use Falkland)
 
 ## Optional Mods
