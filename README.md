@@ -26,19 +26,19 @@ In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top ri
 
 * Deimog (This is the only one that’s required)
 
-At Hell's Gate
+* At Hell's Gate
 
-Take Your Time - At Hells Gate Patch
+* Take Your Time - At Hells Gate Patch
 
-The Perfect Recipe
+* The Perfect Recipe
 
-Vendor Credits Gameplay Option - Greatly Increased is Normal
+* Vendor Credits Gameplay Option - Greatly Increased is Normal
 
-Improved Power - Supernova
+* Improved Power - Supernova
 
-Improved Power - Particle Beam
+* Improved Power - Particle Beam
 
-Sense Star Stuff Improved
+* Sense Star Stuff Improved
 
 Exit the game. In MO2, click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. Have fun!
 
