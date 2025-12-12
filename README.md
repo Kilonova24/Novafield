@@ -12,9 +12,9 @@ Novafield is a stable modlist that currently utilizes over 500 mods.
 
 The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafield. 
 
-Key mods from top authors:
+### Key mods from top authors:
 
-S1nderion (rbtRvIt)
+#### S1nderion (rbtRvIt)
 * Balanced Ballistics
 * Configurable Spacesuit Auto-Hide
 * Cost Of Living
@@ -29,14 +29,14 @@ S1nderion (rbtRvIt)
 * Suit Up
 * Variable Contraband Prices - Redux
 
-Gothos25
+#### Gothos25
 * Apotheosis
 * Bedlam
 * Desolation
 * Revelation - A Main Quest Overhaul
 * Take Your Time
 
-QoL Features
+### QoL Features
 * SmartHeal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
 * Smart Inventory: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
   * Tip: Transfer grenades and mines to the Smart Inventory to set a carry limit on that item. You want to do this for the explosives you like or Smart Inventory will automatically transfer all of your grenades and mines to the ship’s inventory. You can keep transferring a single Frag Grenade in your inventory to set the carry limit you want. Setting the Smart Inventory Frag Grenade to 5 will make it so you cannot pick up more than 5 Frag Grenades out in the world. 
@@ -45,7 +45,6 @@ QoL Features
 * Apotheosis - Powers Overhaul: Overhauls powers for improved utility and immersion (see mod page).
 * Revelation - Main Quest Overhaul: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
 * Warriors Better Scanner: Scanner rework.
-* NPC Enhancer Gun: Take off ALL modded clothing on YOUR player character before applying the CharGen presets on followers. Make sure to put your name and your pronouns when saving the character.
 * Ship Builder Configurator: Go to the Gameplay Options and change any of the Ship Builder settings to your preferences. 
 
 ## Pre-install
@@ -92,7 +91,7 @@ Exit the game. In MO2, click the blue Refresh button on the top. Click the Sort 
 
 NOTE: I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
 
-# Supported/ Recommended Paid Mods (Optional)
+## Supported/ Recommended Paid Mods (Optional)
 
 This modlist was built with compatability in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
 
