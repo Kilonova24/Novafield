@@ -14,7 +14,7 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 
 ### Key mods from top authors:
 
-#### S1nderion (rbtRvIt)
+#### [S1nderion (rbtRvIt)](https://www.nexusmods.com/profile/rbtRvlt?gameId=4187)
 * Balanced Ballistics
 * Configurable Spacesuit Auto-Hide
 * Cost Of Living
@@ -29,7 +29,7 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Suit Up
 * Variable Contraband Prices - Redux
 
-#### Gothos25
+#### [Gothos25](https://www.nexusmods.com/profile/Gothos25?gameId=4187)
 * Apotheosis
 * Bedlam
 * Desolation
@@ -38,13 +38,13 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 
 ### QoL Features
 * SmartHeal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
-* Smart Inventory: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
+* <a href="https://www.nexusmods.com/starfield/mods/13677">Smart Inventory</a>: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
   * Tip: Transfer grenades and mines to the Smart Inventory to set a carry limit on that item. You want to do this for the explosives you like or Smart Inventory will automatically transfer all of your grenades and mines to the ship’s inventory. You can keep transferring a single Frag Grenade in your inventory to set the carry limit you want. Setting the Smart Inventory Frag Grenade to 5 will make it so you cannot pick up more than 5 Frag Grenades out in the world. 
 * Vehicles: REV-8-Pro, Better Deimog, HopeTech Hammer V
 * Faction Quests Give Skill Points: The UC Vanguard, Freestar Rangers, and Ryujin questlines grant skill points.
-* Apotheosis - Powers Overhaul: Overhauls powers for improved utility and immersion (see mod page).
-* Revelation - Main Quest Overhaul: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
-* Warriors Better Scanner: Scanner rework.
+* <a href="https://www.nexusmods.com/starfield/mods/12984">Apotheosis</a>: Overhauls powers for improved utility and immersion (see mod page).
+* <a href="https://www.nexusmods.com/starfield/mods/10418">Revelation - A Main Quest Overhaul</a>: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
+* [Warriors Better Scanner](https://www.nexusmods.com/starfield/mods/13377): Scanner rework.
 * Ship Builder Configurator: Go to the Gameplay Options and change any of the Ship Builder settings to your preferences. 
 
 ## Pre-install
