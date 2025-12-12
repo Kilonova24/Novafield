@@ -36,7 +36,7 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Revelation - A Main Quest Overhaul
 * Take Your Time
 
-### QoL Features
+### Important QoL Features
 * SmartHeal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
 * <a href="https://www.nexusmods.com/starfield/mods/13677">Smart Inventory</a>: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
   * Tip: Transfer grenades and mines to the Smart Inventory to set a carry limit on that item. You want to do this for the explosives you like or Smart Inventory will automatically transfer all of your grenades and mines to the ship’s inventory. You can keep transferring a single Frag Grenade in your inventory to set the carry limit you want. Setting the Smart Inventory Frag Grenade to 5 will make it so you cannot pick up more than 5 Frag Grenades out in the world. 
@@ -109,7 +109,13 @@ The following popular paid mods are supported and work with this modlist. If you
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 * Falkland Systems Ship Services
   * Falkland Systems: The PDY Patch (Free, download this too if you want to use Falkland)
- 
+
+## Optional Mods
+There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort again under the Plugins tab in the right pane of MO2. 
+* Reduced enemy awareness (outside)
+* [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
+* [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601)
+
 ## Recommended Gameplay Settings
 * Ammo Weight - Weighted Ammo
 * Affliction Treatment - Improve Only
