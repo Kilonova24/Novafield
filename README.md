@@ -4,7 +4,7 @@
 
 # Preamble
 
-Novafield is an immersive roleplaying experience built around rbt/ S1nderion's mod suite. This modlist comes with new weapons, ship parts, quests, quest expansions, audio overhaul, UI overhaul, companion overhaul, and so much more. This modlist was carefully curated to create a fun and immersive Starfield experience. It also includes several custom patches to maximize mod compatability. 
+Novafield is an immersive roleplaying experience built around rbt/ S1nderion's mod suite. This modlist comes with new weapons, ship parts, quests, quest expansions, audio overhaul, UI overhaul, companion overhaul, and so much more. This modlist was carefully curated to create a fun and immersive Starfield experience. It also includes several custom patches to maximize mod compatability. Novafield is a stable modlist that currently utilizes over 500 mods.
 
 ## Pre-install
 
