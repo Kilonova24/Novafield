@@ -111,7 +111,7 @@ The following popular paid mods are supported and work with this modlist. If you
   * Falkland Systems: The PDY Patch (Free, download this too if you want to use Falkland)
 
 ## Optional Mods
-There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort again under the Plugins tab in the right pane of MO2. 
+There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
 * Reduced enemy awareness (outside)
 * [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
 * [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601)
