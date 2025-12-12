@@ -1,5 +1,7 @@
 Full Modlist: https://loadorderlibrary.com/lists/novafield
-  <a href="[https://loadorderlibrary.com/lists/novafield]">Full Modlist</a> |
+
+<p align="center">
+  <a href="https://loadorderlibrary.com/lists/novafield">Full Modlist</a> |
 
 HOW TO INSTALL NOVAFIELD
 
