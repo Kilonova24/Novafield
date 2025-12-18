@@ -64,6 +64,8 @@ For Ultrawide Support, join the Discord.
 
 ## Pre-install
 
+Note: Please join the Discord for support if you run into any issues. 
+
 1. Make sure you have a clean version of Starfield installed. If you modded Starfield with Vortex, you will have to reinstall the game.
 
 2. Install Microsoft .NET v8.0 Desktop Runtime from this link if you do not already have it: https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.5/dotnet-runtime-8.0.5-win-x64.exe
