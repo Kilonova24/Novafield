@@ -47,7 +47,6 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * <a href="https://www.nexusmods.com/starfield/mods/10418">Revelation - A Main Quest Overhaul</a>: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
 * [Warriors Better Scanner](https://www.nexusmods.com/starfield/mods/13377): Scanner rework.
 * Ship Builder Configurator: Go to the Gameplay Options and change any of the Ship Builder settings to your preferences.
-* Use the doors in the Habs (Misc) category while shipbuilding, the Utility ones do not work!
 
 # Requirements
 Bethesda's [minimum required computer specs](https://help.bethesda.net/#en/answer/60442).
