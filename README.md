@@ -110,7 +110,7 @@ NOTE: I recommend making a save and quitting the game after you leave the Altern
 
 ## Supported/ Recommended Paid Mods (Optional)
 
-This modlist was built with compatability in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
+This modlist was built with compatibility in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
 
 The following paid mods are recommended to improve the experience. 
 * [Starfield Spacer Overhaul](https://creations.bethesda.net/en/starfield/details/b541b057-8815-4892-be9c-abea7a292663/Starfield_Spacer_Overhaul)
