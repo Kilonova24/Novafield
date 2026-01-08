@@ -20,6 +20,7 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Cost Of Living
 * Cost Of Spacing
 * Deadly Effective
+* Extremophile
 * Magic Boost Disabler
 * Peak Performance
 * Real Fuel
