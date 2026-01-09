@@ -124,8 +124,6 @@ The following paid mods are recommended to improve the experience.
 The following popular paid mods are supported and work with this modlist. If you want to know if a certain paid mod will conflict with the modlist, please join the Discord and ask.
 * [Watchtower ](https://creations.bethesda.net/en/starfield/details/5d455df7-d99f-4619-a383-f2b39aa21e00/Watchtower__Orbital_Strike__Fleet_Command)
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
-* [Falkland Systems Ship Services](https://creations.bethesda.net/en/starfield/details/6cbf2c64-b736-4d95-bf06-38183a94b359/Falkland_Systems_Ship_Services)
-  * Falkland Systems: The PDY Patch (Free, download this too if you want to use Falkland)
 
 ## Optional Mods
 There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
