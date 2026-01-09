@@ -143,7 +143,7 @@ There are currently three optional mods located in the left hand pane of MO2 at 
 * CoS: Mode - Realfuel
 * Real 02: Boost Pack 02 Usage - Disabled
 * Suit Display - Settlements - Prepared
-* Suit Display - Settlements - Casual
+* Suit Display - Spaceships - Casual
 
 ## Recommended Display Settings
 * Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
