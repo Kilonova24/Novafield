@@ -37,6 +37,9 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Revelation - A Main Quest Overhaul
 * Take Your Time
 
+#### ZeCroque
+* [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)
+
 ### Important QoL Features
 * Smart Heal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
 * <a href="https://www.nexusmods.com/starfield/mods/13677">Smart Inventory</a>: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
