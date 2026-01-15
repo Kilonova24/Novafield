@@ -111,6 +111,13 @@ Exit the game. In MO2, click the blue Refresh button on the top. Click the Sort 
 
 NOTE: I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
 
+You can start the main quest in a few ways: 
+1. By choosing Vanilla when starting a new game.
+2. By finding the artifact in a procedurally generated cave while exploring POIs. (See mod page for more info)
+3. By visiting the Valberg Building in New Atlantis. Talking to the receptionist will auto start the intro sequence for the game. All of your stuff will be moved to a locker that you can access after you complete the intro sequence in the mine.
+   
+NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
+
 ## Supported/ Recommended Paid Mods (Optional)
 
 This modlist was built with compatibility in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
@@ -130,7 +137,7 @@ The following popular paid mods are supported and work with this modlist. If you
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 
 ## Optional Mods
-There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
+There are currently two optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
 * [NPC Enhancer Gun](https://www.nexusmods.com/starfield/mods/10483)
 * [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
 
