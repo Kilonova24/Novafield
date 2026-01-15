@@ -109,7 +109,7 @@ In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top ri
 
 Exit the game. In MO2, click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. Have fun!
 
-NOTE: I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
+I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
