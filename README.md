@@ -113,7 +113,7 @@ I recommend making a save and quitting the game after you leave the Alternate St
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
-2. By finding the artifact in a procedurally generated cave while exploring POIs. (See mod page for more info)
+2. By finding the artifact in a procedurally generated cave while exploring POIs. (Join the Discord if you can't find it)
 3. By visiting the Valberg Building in New Atlantis. Talking to the receptionist will auto start the intro sequence for the game. All of your stuff will be moved to a locker that you can access after you complete the intro sequence in the mine.
    
 NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
