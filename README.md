@@ -121,6 +121,7 @@ The following paid mods are recommended to improve the experience.
   * Cost of Living - Simple Taxes
   * Cost of Spacing
   * Spacefaring Economy
+  * Dark Universe Overtime More Credits
 * [Real Fuel](https://creations.bethesda.net/en/starfield/details/f87ce109-d647-4d0b-be3f-1e763d8491ce/Real_Fuel___Immersive_Exploration) (If you want to use the Creations version of Real Fuel, disable the following in the Gameplay tab in MO2)
   * Real Fuel - Immersive Exploration
 
@@ -130,16 +131,14 @@ The following popular paid mods are supported and work with this modlist. If you
 
 ## Optional Mods
 There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
-* Reduced enemy awareness (outside)
+* [NPC Enhancer Gun](https://www.nexusmods.com/starfield/mods/10483)
 * [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
-* [Extremophile - Environmental Gameplay](https://www.nexusmods.com/starfield/mods/15601)
 
 ## Recommended Gameplay Settings
 * Ammo Weight - Weighted Ammo
 * Affliction Treatment - Improve Only
 * Affliction Prognosis - Advanced
 * Environmental Damage & Afflictions - Advanced
-* TN: Cargo Multiplier - x1 (Vanilla)
 * GRiNDTerraverse Encounters Chance - Less Probability 
 * CoS: Mode - Realfuel
 * Real 02: Boost Pack 02 Usage - Disabled
@@ -147,4 +146,8 @@ There are currently three optional mods located in the left hand pane of MO2 at 
 * Suit Display - Spaceships - Casual
 
 ## Recommended Display Settings
-* Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
+Brightness - 2.62
+Contrast - 0.63 (Adjust this setting if your game is too dark/bright)
+Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
+Film Grain - 0
+Depth of Field - Off
