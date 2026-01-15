@@ -153,8 +153,8 @@ There are currently two optional mods located in the left hand pane of MO2 at th
 * Suit Display - Spaceships - Casual
 
 ## Recommended Display Settings
-Brightness - 2.62
-Contrast - 0.63 (Adjust this setting if your game is too dark/bright)
-Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
-Film Grain - 0
-Depth of Field - Off
+* Brightness - 2.62
+* Contrast - 0.63 (Adjust this setting if your game is too dark/bright)
+* Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
+* Film Grain - 0
+* Depth of Field - Off
