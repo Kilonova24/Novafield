@@ -43,7 +43,7 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Smart Heal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
 * <a href="https://www.nexusmods.com/starfield/mods/13677">Smart Inventory</a>: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
   * Tip: Transfer grenades and mines to the Smart Inventory to set a carry limit on that item. You want to do this for the explosives you like or Smart Inventory will automatically transfer all of your grenades and mines to the ship’s inventory. You can keep transferring a single Frag Grenade in your inventory to set the carry limit you want. Setting the Smart Inventory Frag Grenade to 5 will make it so you cannot pick up more than 5 Frag Grenades out in the world. 
-* Vehicles: REV-8-Pro, Better Deimog, HopeTech Hammer V
+* Vehicles: REV-8-Pro, Better Deimog, HopeTech Hammer V, Crimson Gang Van, M12B FAV (Warthog)
 * Faction Quests Give Skill Points: The UC Vanguard, Freestar Rangers, and Ryujin questlines grant skill points.
 * <a href="https://www.nexusmods.com/starfield/mods/12984">Apotheosis</a>: Overhauls powers for improved utility and immersion (see mod page).
 * <a href="https://www.nexusmods.com/starfield/mods/10418">Revelation - A Main Quest Overhaul</a>: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
@@ -106,7 +106,9 @@ In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top ri
 
 * Sense Star Stuff Improved
 
-Exit the game. In MO2, click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. 
+Exit the game. In the left pane of MO2, click the CK Mods dropdown. You should see seven empty mods. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
+
+Make sure you check the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. 
 
 I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
 
