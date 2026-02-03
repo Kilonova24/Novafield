@@ -107,7 +107,7 @@ Exit the game. In the left pane of MO2, click the CK Mods dropdown. You should s
 
 Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. If sorting comes back with an error, join the Discord for support.
 
-I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
+Interacting with the Surgical Bed in the Alternate Start area after you buy modded items from the terminal will cause a CTD. All the Surgical bed does is bring you back into the CharGenMenu, so avoid it for now. I'll be patching it soon. I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game. 
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
