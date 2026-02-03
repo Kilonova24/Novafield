@@ -136,7 +136,7 @@ The following popular paid mods are supported and work with this modlist. If you
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 
 ## Optional Mods
-There are currently two optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
+There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
 * [Dark Universe Overtime Selective Assignments Patch](https://www.nexusmods.com/starfield/mods/15948)
 * [NPC Enhancer Gun](https://www.nexusmods.com/starfield/mods/10483)
 * [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
