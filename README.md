@@ -25,6 +25,7 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Real Fuel
 * Real 02
 * Roverhaul
+* Skeleton Key - Simple Auto-Hacking
 * Spacefaring Economy
 * Suit Up
 * Variable Contraband Prices - Redux
@@ -100,10 +101,6 @@ In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top ri
 
 * Vendor Credits Gameplay Option - Greatly Increased is Normal
 
-* Improved Power - Supernova
-
-* Improved Power - Particle Beam
-
 * Sense Star Stuff Improved
 
 Exit the game. In the left pane of MO2, click the CK Mods dropdown. You should see seven empty mods. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
@@ -140,6 +137,7 @@ The following popular paid mods are supported and work with this modlist. If you
 
 ## Optional Mods
 There are currently two optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
+* [Dark Universe Overtime Selective Assignments Patch](https://www.nexusmods.com/starfield/mods/15948)
 * [NPC Enhancer Gun](https://www.nexusmods.com/starfield/mods/10483)
 * [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
 
