@@ -8,7 +8,7 @@ This modlist is a comprehensive overhaul focused on depth, balance, and immersio
 
 Beyond combat, the collection expands the universe with new weapons, ship parts, quests, and quest expansions, alongside reworked audio and companions that feel more reactive and alive. Extensive custom patching ensures a cohesive and well-integrated experience across all included mods.
 
-Novafield is a stable modlist that currently utilizes over 500 mods. Below are some of the most important mods that form the foundation of the modlist.
+Novafield is a stable modlist that currently utilizes over 500 mods. Below are the mods that form the foundation of the modlist.
 
 # Modlist
 
