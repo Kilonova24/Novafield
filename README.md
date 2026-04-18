@@ -65,8 +65,6 @@ The latest Steam version (1.15.222) of the game and the Shattered Space DLC.
 
 SSD (This is required; I wouldn't run vanilla Starfield on an HDD)
 
-For Ultrawide Support, join the Discord.
-
 ## Pre-install
 
 Note: Please join the Discord for support if you run into any issues. 
