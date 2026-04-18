@@ -4,11 +4,9 @@
 
 # Preamble
 
-This modlist is a comprehensive overhaul focused on depth, balance, and immersion. Combat is redesigned to reward tactical decision-making, positioning, and thoughtful loadout choices, moving away from vanilla’s bullet-sponge encounters. Ship combat is fully rebalanced so each weapon type has clear strengths and weaknesses, while faster ships across the board create more dynamic and decisive space engagements.
+This modlist is a comprehensive overhaul focused on immersion and fun. Combat is redesigned to reward tactical decision-making and thoughtful loadout choices, moving away from vanilla’s bullet-sponge encounters. Ship combat is fully rebalanced so each weapon type has clear strengths and weaknesses, while faster ships across the board create more dynamic and decisive space engagements.
 
-Beyond combat, the collection expands the universe with new weapons, ship parts, quests, and quest expansions, alongside reworked audio and companions that feel more reactive and alive. Extensive custom patching ensures a cohesive and well-integrated experience across all included mods.
-
-Novafield is a stable modlist that currently utilizes over 500 mods. Below are the mods that form the foundation of the modlist.
+Below are the mods that form the foundation of the collection.
 
 # Modlist
 
