@@ -24,12 +24,13 @@
     },
     "download_metadata": {
       "$type": "https://authored-files.wabbajack.org/Novafield.wabbajack_e24ddfa3-76dc-4a87-860f-7a6ddadba0d4",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "Ya+n2q07+E8=",
+      "Size": 3026982,
+      "NumberOfArchives": 732,
+      "SizeOfArchives": 190496524171,
+      "NumberOfInstalledFiles": 13872,
+      "SizeOfInstalledFiles": 195634786087
+      "TotalSize": 386131310258
     },
     "version": "1.0.0"
   }
