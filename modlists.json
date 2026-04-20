@@ -1,38 +1,44 @@
 [
   {
     "title": "Novafield",
-    "description": "An immersive roleplaying experience built around rbt/ S1nderion's mod suite.",
+    "description": "An immersive roleplaying experience built around rbt/ S1nderion\u0027s mod suite.",
     "author": "Kilonova24",
     "maintainers": [
       "github/Kilonova24"
     ],
     "game": "starfield",
+    "official": false,
     "tags": [
       "DLC Required",
       "Immersive",
       "Total Overhaul"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Kilonova24/Novafield/main/IF%205.png",
       "readme": "https://github.com/Kilonova24/Novafield/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_8a97ad8b-9917-4d33-9cf9-d808efc4c7f1",
+      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_5e776384-8a76-4e0a-9078-50e44b48c887",
       "machineURL": "Novafield",
-      "discordURL": "https://discord.gg/KM2eMWr2Vc"
+      "discordURL": "https://discord.gg/KM2eMWr2Vc",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "https://authored-files.wabbajack.org/Novafield.wabbajack_8a97ad8b-9917-4d33-9cf9-d808efc4c7f1",
-      "Hash": "7z1Fu50/UDo=",
-      "Size": 3027980,
+      "Hash": "gXoe80nISAE=",
+      "Size": 3027960,
       "NumberOfArchives": 733,
       "SizeOfArchives": 190496286183,
       "NumberOfInstalledFiles": 13874,
       "SizeOfInstalledFiles": 195635501747,
       "TotalSize": 386131787930
     },
-    "version": "1.0.0"
+    "version": "1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-04-20T21:57:39.7916107Z",
+    "repositoryName": ""
   }
 ]
-
