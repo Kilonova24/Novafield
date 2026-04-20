@@ -133,11 +133,6 @@ You can start the main quest in a few ways:
    
 NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
 
-## Optional Mods
-There are currently two optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
-* [Dark Universe Overtime Selective Assignments Patch](https://www.nexusmods.com/starfield/mods/15948)
-* [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
-
 ## Recommended Gameplay Settings
 * Ammo Weight - Weighted Ammo
 * Affliction Treatment - Improve Only
