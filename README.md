@@ -85,9 +85,7 @@ Note: Please join the Discord for support if you run into any issues.
 
 4. Install the list. Choose where you want the modlist installed (make sure you have plenty of free space and put outside of a protected folder). Let Wabbajack do its work — it will download and install everything automatically.
 
-## Post-install
-
-### Optional - Supported Creations Mods
+## Optional - Supported Creations Mods
 Here are some optional Creations only mods that are supported in this modlist. If you want to use them, make sure the dropdown menu is set to Novafield and click Run on the top right. Go to the Creations Menu in game and download the following mods: 
 
 * Deimog 
@@ -101,21 +99,9 @@ Here are some optional Creations only mods that are supported in this modlist. I
 How to Create Dummy Plugins for Creations Mods:
 Exit the game. In the left pane of MO2, you should see a CC Mods category. Create the dummy plugins yourself by Right Clicking the CC Mods separator, clicking All mods, then clicking Create empty mod inside. Name each plugin the name of the CC mod you downloaded. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
 
-Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to click Run and start a new game. If sorting comes back with an error, join the Discord for support. 
+Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
 
-### Required Reading
-Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
-* If you chose the Vanilla starting option, create a save and then quit to Desktop once you get on the Frontier. 
-* If you chose the Custom starting option, create a save and then quit to Desktop once you leave the alternate start area. 
-
-You can start the main quest in a few ways: 
-1. By choosing Vanilla when starting a new game.
-2. By finding the artifact in a procedurally generated cave while exploring POIs. 
-3. By visiting the Valberg Building in New Atlantis. Talking to the receptionist will auto start the intro sequence for the game. All of your stuff will be moved to a locker that you can access after you complete the intro sequence in the mine.
-   
-NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
-
-## Supported/ Recommended Paid Mods (Optional)
+This is also when you should download any paid Creations you want. By no means are any paid mods required.
 
 This modlist was built with compatibility in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
 
@@ -130,9 +116,23 @@ The following paid mods are recommended to improve the experience.
   * Real Fuel - Immersive Exploration
   * Patch - Real Fuel x New Workbench Essential Framework
 
-The following popular paid mods are supported and work with this modlist. If you want to know if a certain paid mod will conflict with the modlist, please join the Discord and ask.
+The following popular paid mods work with this modlist. If you want to know if a certain paid mod will conflict with the modlist, please join the Discord and ask.
 * [Watchtower ](https://creations.bethesda.net/en/starfield/details/5d455df7-d99f-4619-a383-f2b39aa21e00/Watchtower__Orbital_Strike__Fleet_Command)
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
+
+## Post-install
+Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
+
+Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
+* If you chose the Vanilla starting option, create a save and then quit to Desktop once you get on the Frontier. 
+* If you chose the Custom starting option, create a save and then quit to Desktop once you leave the alternate start area. 
+
+You can start the main quest in a few ways: 
+1. By choosing Vanilla when starting a new game.
+2. By finding the artifact in a procedurally generated cave while exploring POIs. 
+3. By visiting the Valberg Building in New Atlantis. Talking to the receptionist will auto start the intro sequence for the game. All of your stuff will be moved to a locker that you can access after you complete the intro sequence in the mine.
+   
+NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
 
 ## Optional Mods
 There are currently two optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
