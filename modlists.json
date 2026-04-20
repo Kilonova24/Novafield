@@ -18,12 +18,12 @@
     "links": {
       "image": "https://github.com/Kilonova24/Novafield/blob/main/IF%205.png",
       "readme": "https://github.com/Kilonova24/Novafield/blob/main/README.md",
-      "download": "https://www.nexusmods.com/starfield/mods/15309?tab=files&file_id=60403",
-      "machineURL": "Novafield",
+      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_55472d9e-179b-47e7-abba-6c14619160b0",
+      "machineURL": "Novafield/Novafield",
       "discordURL": "https://discord.gg/KM2eMWr2Vc"
     },
     "download_metadata": {
-      "$type": "https://www.nexusmods.com/starfield/mods/15309?tab=files&file_id=60403",
+      "$type": "https://authored-files.wabbajack.org/Novafield.wabbajack_55472d9e-179b-47e7-abba-6c14619160b0",
       "Hash": "e1+K7eJbDJw=",
       "Size": 0,
       "NumberOfArchives": 14,
