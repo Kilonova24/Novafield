@@ -96,7 +96,7 @@ Here are some optional Creations only mods that are supported in this modlist. I
 
 * The Perfect Recipe
 
-How to Create Dummy Plugins for Creations Mods:
+### How to Create Dummy Plugins for Creations Mods:
 
 Exit the game. In the left pane of MO2, you should see a CC Mods category. Create the dummy plugins by Right Clicking the CC Mods separator, clicking All mods, then clicking Create empty mod inside. Name each plugin the name of the CC mod you downloaded. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
 
