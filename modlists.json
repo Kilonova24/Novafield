@@ -25,7 +25,12 @@
       "machineURL": "Novafield",
       "discordURL": "https://discord.gg/KM2eMWr2Vc",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "439703",
+        "slug": "ewfdwa",
+        "domainName": "starfield",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "V9hW2IOq5tg=",
