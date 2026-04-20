@@ -19,10 +19,10 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
-      "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "JohnsSkyrimMakeover",
-      "discordURL": "https://discord.gg/wabbajack"
+      "readme": "https://github.com/Kilonova24/Novafield/blob/main/README.md",
+      "download": "https://www.nexusmods.com/starfield/mods/15309?tab=files&file_id=60403",
+      "machineURL": "Novafield",
+      "discordURL": "https://discord.gg/KM2eMWr2Vc"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
