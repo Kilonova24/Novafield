@@ -20,7 +20,6 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Cost Of Living
 * Cost Of Spacing
 * Deadly Effective
-* Magic Boost Disabler
 * Peak Performance
 * Real Fuel
 * Real 02
@@ -31,7 +30,6 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Variable Contraband Prices - Redux
 
 #### [Gothos25](https://www.nexusmods.com/profile/Gothos25?gameId=4187)
-* Apotheosis
 * Bedlam
 * Desolation
 * Revelation - A Main Quest Overhaul
@@ -41,12 +39,14 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)
 
 ### Important QoL Features
+This list uses PDY (Place Doors Yourself). You need to put a door on every ship module you add or when you edit the ship's layout. The doors can be found in the Doors & Habs category. 
+* PDY allows you to have complete control over your ship's interior layout. Without it, the interior pathways are randomly generated. If you are unfamiliar with this mod and are having trouble getting it to work, do not fret. Join the Discord so us PDY experts can help you out. 
+
 * Smart Heal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
 * <a href="https://www.nexusmods.com/starfield/mods/13677">Smart Inventory</a>: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
   * Tip: Transfer grenades and mines to the Smart Inventory to set a carry limit on that item. You want to do this for the explosives you like or Smart Inventory will automatically transfer all of your grenades and mines to the ship’s inventory. You can keep transferring a single Frag Grenade in your inventory to set the carry limit you want. Setting the Smart Inventory Frag Grenade to 5 will make it so you cannot pick up more than 5 Frag Grenades out in the world. 
-* Vehicles: REV-8-Pro, Better Deimog, HopeTech Hammer V, Crimson Gang Van, M12B FAV (Warthog)
+* Vehicles: REV-8-Pro, HopeTech Hammer V, Crimson Gang Van, M12B FAV (Warthog)
 * Faction Quests Give Skill Points: The UC Vanguard, Freestar Rangers, and Ryujin questlines grant skill points.
-* <a href="https://www.nexusmods.com/starfield/mods/12984">Apotheosis</a>: Overhauls powers for improved utility and immersion (see mod page).
 * <a href="https://www.nexusmods.com/starfield/mods/10418">Revelation - A Main Quest Overhaul</a>: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
 * [Warriors Better Scanner](https://www.nexusmods.com/starfield/mods/13377): Scanner rework.
 * Ship Builder Configurator: Go to the Gameplay Options and change any of the Ship Builder settings to your preferences.
@@ -87,9 +87,10 @@ Note: Please join the Discord for support if you run into any issues.
 
 ## Post-install
 
-In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top right. Go to the Creations Menu in game and download the following mods: 
+### Optional - Supported Creations Mods
+Here are some optional Creations only mods that are supported in this modlist. If you want to use them, make sure the dropdown menu is set to Novafield and click Run on the top right. Go to the Creations Menu in game and download the following mods: 
 
-* Deimog (This is the only one that’s required)
+* Deimog 
 
 * At Hell's Gate
 
@@ -97,19 +98,19 @@ In MO2, make sure the dropdown menu is set to Novafield. Click Run on the top ri
 
 * The Perfect Recipe
 
-* Vendor Credits Gameplay Option - Greatly Increased is Normal
+How to Create Dummy Plugins for Creations Mods:
+Exit the game. In the left pane of MO2, you should see a CC Mods category. Create the dummy plugins yourself by Right Clicking the CC Mods separator, clicking All mods, then clicking Create empty mod inside. Name each plugin the name of the CC mod you downloaded. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
 
-* Sense Star Stuff Improved
+Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to click Run and start a new game. If sorting comes back with an error, join the Discord for support. 
 
-Exit the game. In the left pane of MO2, click the CC Mods dropdown. You should see five empty mods. If you do not, create the dummy plugins yourself by Right Clicking the CC Mods separator, clicking All mods, then clicking Create empty mod inside. Name each plugin the name of the CC mod you downloaded. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
-
-Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts, you are good to click Run and start a new game. If sorting comes back with an error, join the Discord for support. 
-
-Interacting with the Surgical Bed in the Alternate Start area will cause a CTD. All the Surgical bed does is bring you back into the CharGenMenu, so avoid it for now. I recommend making a save and quitting the game after you leave the Alternate Start area. Some mods will not load until you quit and reload the game.
+### Required Reading
+Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
+* If you chose the Vanilla starting option, create a save and then quit to Desktop once you get on the Frontier. 
+* If you chose the Custom starting option, create a save and then quit to Desktop once you leave the alternate start area. 
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
-2. By finding the artifact in a procedurally generated cave while exploring POIs. (Join the Discord if you can't find it)
+2. By finding the artifact in a procedurally generated cave while exploring POIs. 
 3. By visiting the Valberg Building in New Atlantis. Talking to the receptionist will auto start the intro sequence for the game. All of your stuff will be moved to a locker that you can access after you complete the intro sequence in the mine.
    
 NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
@@ -134,9 +135,8 @@ The following popular paid mods are supported and work with this modlist. If you
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 
 ## Optional Mods
-There are currently three optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
+There are currently two optional mods located in the left hand pane of MO2 at the bottom. You can enable any of these mods by clicking the empty tickbox to the left of the mod name. Whenever you disable or enable any mods, make sure to click Sort under the Plugins tab in the right pane of MO2. 
 * [Dark Universe Overtime Selective Assignments Patch](https://www.nexusmods.com/starfield/mods/15948)
-* [NPC Enhancer Gun](https://www.nexusmods.com/starfield/mods/10483)
 * [Quantum Immortality Redux](https://www.nexusmods.com/starfield/mods/14483)
 
 ## Recommended Gameplay Settings
@@ -147,12 +147,19 @@ There are currently three optional mods located in the left hand pane of MO2 at 
 * GRiNDTerraverse Encounters Chance - Less Probability 
 * CoS: Mode - Realfuel
 * Real 02: Boost Pack 02 Usage - Disabled
-* Suit Display - Settlements - Prepared
-* Suit Display - Spaceships - Casual
+
+Note: For the Suit Display settings to work you need to be on the Hide Spacesuit in Settlements setting from your Spacesuit inventory UI.
+* Suit Display: Settlements - Prepared 
+* Suit Display: Spaceships - Casual
 
 ## Recommended Display Settings
 * Brightness - 2.62
-* Contrast - 0.63 (Adjust this setting if your game is too dark/bright)
+* Contrast - 0.90
 * Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
 * Film Grain - 0
 * Depth of Field - On
+
+## Recommended Accessibility Settings
+* Dialogue Camera: Off
+* First Person FOV: 100
+* Always Show Landing Camera: On
