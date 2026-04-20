@@ -104,8 +104,6 @@ Make sure you click the checkbox on the now installed plugins. Click the blue Re
 
 This is also when you should download any paid Creations you want. By no means are any paid mods required.
 
-This modlist was built with compatibility in mind. In the world of paid mods, many people will want different things. By no means are any paid mods required. 
-
 The following paid mods are recommended to improve the experience. 
 * [Starfield Spacer Overhaul](https://creations.bethesda.net/en/starfield/details/b541b057-8815-4892-be9c-abea7a292663/Starfield_Spacer_Overhaul)
 * [The Space Economy](https://creations.bethesda.net/en/starfield/details/eca053f6-3049-4e75-8f46-e9367d19eef8/The_Space_Economy) (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay tab in MO2)
