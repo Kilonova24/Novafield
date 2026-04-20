@@ -2,16 +2,16 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Novafield",
-    "description": "An immersive roleplaying experience built around rbt/ S1nderion's modlist",
+    "description": "An immersive roleplaying experience built around rbt/ S1nderion's mod suite.",
     "author": "Kilonova24",
     "maintainers": [
       "github/Kilonova24"
     ],
-    "game": "skyrimspecialedition",
+    "game": "starfield",
     "tags": [
-      "NSFW",
-      "Steam",
-      "Vanilla+"
+      "DLC Required",
+      "Immersive",
+      "Total Overhaul"
     ],
     "nsfw": false,
     "image_contains_title": false,
