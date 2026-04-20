@@ -17,8 +17,7 @@
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "image": "https://github.com/Kilonova24/Novafield/blob/main/IF%205.png",
       "readme": "https://github.com/Kilonova24/Novafield/blob/main/README.md",
       "download": "https://www.nexusmods.com/starfield/mods/15309?tab=files&file_id=60403",
       "machineURL": "Novafield",
