@@ -78,12 +78,16 @@ Note: Please join the Discord for support if you run into any issues.
 ## Installation
 
 1. Download Wabbajack from the official site: https://www.wabbajack.org/. Install Wabbajack to a non protected folder (Not Program Files).
-
-2. Download the Novafield Wabbajack Main File from here and extract it. https://www.nexusmods.com/starfield/mods/15309.
-
-3. Go to where you installed Wabbajack and run Wabbajack.exe. Go to Browse lists tab. Click the Install from disk in the top right corner. Select the .wabbajack file you downloaded. This will load the list into Wabbajack.
-
-4. Install the list. Choose where you want the modlist installed (make sure you have plenty of free space and put outside of a protected folder). Let Wabbajack do its work — it will download and install everything automatically.
+2. Create the installation folder e.g. C:\Novafield and the mod download folder e.g. C:\Novafield Downloads. The download folder can be on a different drive. 
+3. In the WABBAJACK folder, run Wabbajack.exe to install the Wabbajack program.
+4. After the install has completed, close and run Wabbajack.exe once more.
+5. In Wabbajack, go to Settings and log into Nexus. 
+6. Browse the Starfield modlists to choose Novafield.
+7. Choose the Mod Installation Location and Downloads Location paths you set earlier for the installation and mod download folders.
+8. Click the Install button to start the installation.
+9. Takes around 1 hour to download with a Premium Nexus Membership.
+10. If there are any issues with the installation, including any "Download failed" messages, press the 'retry' button or start Wabbajack again and it will continue from where it left off.
+11. Once the modlist has been fully installed, run ModOrganizer.exe inside the Novafield folder, and move onto the next section.
 
 ## Optional - Supported Creations Mods
 Here are some optional Creations only mods that are supported in this modlist. If you want to use them, make sure the dropdown menu is set to Novafield and click Run on the top right. Go to the Creations Menu in game and download the following mods: 
