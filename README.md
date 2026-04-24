@@ -156,9 +156,10 @@ Note: For the Suit Display settings to work you need to be on the Hide Spacesuit
 ## Recommended Display Settings
 * Brightness - 2.62
 * Contrast - 0.90
-* Crowd Density - Medium (Helps with NPCs getting stuck and the invisible body parts on crowds bug)
 * Film Grain - 0
 * Depth of Field - On
+
+Note: DLSS and FSR are trash in this game. Unless you are using Optiscaler to get the newer versions of these upscalers, try using XESS - Quality. It's what I use on my 9070XT and what a lot of other people recommend as well for the options Bethesda gave us.
 
 ## Recommended Accessibility Settings
 * Dialogue Camera: Off
