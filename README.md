@@ -54,7 +54,7 @@ This list uses PDY (Place Doors Yourself). You need to put a door on every ship 
 # Requirements
 Bethesda's [minimum required computer specs](https://help.bethesda.net/#en/answer/60442).
 
-The latest Steam version (1.15.222) of the game and the Shattered Space DLC.
+The latest Steam version (1.16.230) of the game and the Shattered Space DLC.
 
 ## Recommended Specs
 32gb Ram 
