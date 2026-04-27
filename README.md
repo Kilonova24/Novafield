@@ -130,8 +130,8 @@ The following popular paid mods work with this modlist. If you want to know if a
 Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
 
 Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
-* If you chose the Vanilla starting option, create a save and then quit to Desktop once you get on the Frontier. 
-* If you chose the Custom starting option, create a save and then quit to Desktop once you leave the alternate start area. 
+* If you chose the Vanilla starting option, create a save and then quit to Desktop after you create your character. 
+* If you chose the Custom starting option, create a save and then quit to Desktop after you leave the alternate start area. 
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
