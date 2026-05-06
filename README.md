@@ -4,7 +4,7 @@
 
 # Preamble
 
-This modlist is a comprehensive overhaul focused on immersion and fun. Combat is redesigned to reward tactical decision-making and thoughtful loadout choices, moving away from vanilla’s bullet-sponge encounters. Ship combat is fully rebalanced so each weapon type has clear strengths and weaknesses, while faster ships across the board create more dynamic and decisive space engagements.
+This modlist is a comprehensive overhaul focused on immersion and fun. Combat is redesigned to reward tactical decision-making and thoughtful loadout choices. Gameplay is enhanced with realism mods that will fully immerse you in the game. 
 
 Below are the mods that form the foundation of the collection.
 
