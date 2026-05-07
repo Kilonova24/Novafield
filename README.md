@@ -100,11 +100,11 @@ Here are some optional Creations only mods that are supported in this modlist. I
 
 * The Perfect Recipe
 
-### How to Create Dummy Plugins for Creations Mods:
+### How to get Creations Mods to work like normal plugins:
 
-Exit the game. In the left pane of MO2, you should see a CC Mods category. Create the dummy plugins by Right Clicking the CC Mods separator, clicking All mods, then clicking Create empty mod inside. Name each plugin the name of the CC mod you downloaded. Double click the red Overwrite tab at the bottom of the left pane. Manually drag the Creations you just installed to their empty plugins. Deimog's files are the three sfbgs019 files. At Hell's Gate files are the four kgcdoom files and the take your time file at the bottom. The Perfect Recipe's files are the eight sfbgs00c files. 
+Exit the game. Click on the Tools at the top of MO2, the click the Creations Manager. You should now see any Creations you added Check them and they will appear in the left pane of MO2 at the bottom. Move them to their designated CC Mods tab.
 
-Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
+Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. NOTE: Ignore the Loot Blueprint.esm Warnings after sorting. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected. I used Root Builder 
 
 This is also when you should download any paid Creations you want. By no means are any paid mods required.
 
