@@ -49,7 +49,6 @@ This list uses PDY (Place Doors Yourself). You need to put a door on every ship 
 * Faction Quests Give Skill Points: The UC Vanguard, Freestar Rangers, and Ryujin questlines grant skill points.
 * <a href="https://www.nexusmods.com/starfield/mods/10418">Revelation - A Main Quest Overhaul</a>: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
 * [Warriors Better Scanner](https://www.nexusmods.com/starfield/mods/13377): Scanner rework.
-* Ship Builder Configurator: Go to the Gameplay Options and change any of the Ship Builder settings to your preferences.
 
 # Requirements
 Bethesda's [minimum required computer specs](https://help.bethesda.net/#en/answer/60442).
