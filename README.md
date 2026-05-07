@@ -106,7 +106,7 @@ Exit the game. Click on Tools at the top of MO2, hover over Tool Plugins, then c
 
 Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
 
-NOTE: Ignore the Loot Blueprint.esm Warnings after sorting. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected. I used Root Builder 
+Note: Ignore the Loot Blueprint.esm Warnings after sorting. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected. 
 
 This is also when you should download any paid Creations you want. By no means are any paid mods required.
 
