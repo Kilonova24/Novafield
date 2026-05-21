@@ -4,7 +4,7 @@
 
 # Preamble
 
-This modlist is a comprehensive overhaul focused on immersion and fun. Combat is redesigned to reward tactical decision-making and thoughtful loadout choices. Gameplay is enhanced with realism mods that will fully immerse you in the game. 
+This modlist is a comprehensive overhaul focused on immersion and fun. Combat is redesigned to reward tactical decision-making and thoughtful loadout choices. Ship combat has been completely rebalanced from ship speed to weapons and shields. Gameplay is enhanced with realism mods that will fully immerse you in the game. 
 
 Below are the mods that form the foundation of the collection.
 
@@ -49,6 +49,7 @@ This list uses PDY (Place Doors Yourself). You need to put a door on every ship 
 * Faction Quests Give Skill Points: The UC Vanguard, Freestar Rangers, and Ryujin questlines grant skill points.
 * <a href="https://www.nexusmods.com/starfield/mods/10418">Revelation - A Main Quest Overhaul</a>: Removes the temple grind. Powers are now earned from artifacts after completing the first temple.
 * [Warriors Better Scanner](https://www.nexusmods.com/starfield/mods/13377): Scanner rework.
+* [NovaSkills - Player Level Progression](https://www.nexusmods.com/starfield/mods/16422): Brings together the best skill QoL improvements and fixes while also replacing the skill challanges with Level Gates.
 
 # Requirements
 Bethesda's [minimum required computer specs](https://help.bethesda.net/#en/answer/60442).
