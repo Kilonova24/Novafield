@@ -104,6 +104,8 @@ Here are some optional Creations only mods that are supported in this modlist. I
 
 Exit the game. Click on Tools at the top of MO2, hover over Tool Plugins, then click Starfield Creations Organizer. You should now see any Creations you added. Check them and they will appear in the left pane of MO2 at the bottom. Move them to their designated CC Mods tab.
 
+IMPORTANT: Rename the Creations and add [NoDelete] to the beginning of the Creation plugin's name to ensure the Creations stay installed after updating the list. 
+
 Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
 
 Note: Ignore the Loot Blueprint.esm Warnings after sorting. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected. 
@@ -116,7 +118,7 @@ The following paid mods are recommended to improve the experience.
   * Cost of Living - Simple Taxes
   * Cost of Spacing
   * Spacefaring Economy
-  * Dark Universe Overtime More Credits
+  * Dark Universe Overtime Improved Rewards
   * NovaSkills x Spacefaring Economy Patch
   * Then download the Novaskills x The Space Economy Patch from here: [NovaSkills - Player Level Progression](https://www.nexusmods.com/starfield/mods/16422?tab=files)
   * Drag the new patch from the Downloads tab in the right pane of MO2 to the Final Patches category and enable the mod. 
