@@ -129,6 +129,8 @@ The following popular paid mods work with this modlist. If you want to know if a
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 
 ## Post-install
+There are two Optional Mods for this list, Spaceships+ and THP - Delevelled. I recommend reading both mod pages thourougly before enabling them. THP Delevelled will make the combat much harder.
+
 Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
 
 Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
