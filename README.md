@@ -154,7 +154,6 @@ NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is st
 * Environmental Damage & Afflictions - Advanced
 * GRiNDTerraverse Encounters Chance - Less Probability 
 * CoS: Mode - Realfuel
-* Real 02: Boost Pack 02 Usage - Disabled
 
 Note: For the Suit Display settings to work you need to be on the Hide Spacesuit in Settlements setting from your Spacesuit inventory UI.
 * Suit Display: Settlements - Prepared 
