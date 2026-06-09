@@ -135,9 +135,12 @@ There are two Optional Mods for this list, Spaceships+ and THP - Delevelled. I r
 
 Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
 
-Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
+IMPORTANT - Having an alt start mod installed means your gun sounds will be silent when starting a new game. Follow the bullet point listed below to fix them. All you need to do is save, quit to desktop, and reload the game.
+
 * If you chose the Vanilla starting option, create a save and then quit to Desktop after you create your character. 
 * If you chose the Custom starting option, create a save and then quit to Desktop after you leave the alternate start area. 
+
+Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
