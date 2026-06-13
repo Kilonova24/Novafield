@@ -164,6 +164,8 @@ Note: For the Suit Display settings to work you need to be on the Hide Spacesuit
 
 Note: To decrease/ remove the stutter when grav jumping with the new seamless grav jump mod, Disable Auto Save on Travel at the bottom of the Gameplay Settings.
 
+There are also scarcity options for loot! Find the RMB gameplay options and tune the scarcity to your liking.
+
 ## Recommended Display Settings
 * Brightness - 2.62
 * Contrast - 0.90
