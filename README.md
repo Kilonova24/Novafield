@@ -173,6 +173,5 @@ There are also scarcity options for loot! Find the RMB gameplay options and tune
 Note: DLSS and FSR are trash in this game. Unless you are using Optiscaler to get the newer versions of these upscalers, try using XESS - Quality. It's what I use on my 9070XT and what a lot of other people recommend as well for the options Bethesda gave us.
 
 ## Recommended Accessibility Settings
-* Dialogue Camera: Off
 * First Person FOV: 100
 * Always Show Landing Camera: On
