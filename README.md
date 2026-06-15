@@ -117,8 +117,9 @@ The following paid mods are recommended to improve the experience.
 * [The Space Economy](https://creations.bethesda.net/en/starfield/details/eca053f6-3049-4e75-8f46-e9367d19eef8/The_Space_Economy) (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay/ Skills tab in MO2)
   * Cost of Living - Simple Taxes
   * Cost of Spacing
-  * Spacefaring Economy
   * Dark Universe Overtime Improved Rewards
+  * Spacefaring Economy
+  * Spacefaring Economy Crime Steal Patch
   * NovaSkills x Spacefaring Economy Patch
   * Then download the Novaskills x The Space Economy Patch from here: [NovaSkills - Player Level Progression](https://www.nexusmods.com/starfield/mods/16422?tab=files)
   * Drag the new patch from the Downloads tab in the right pane of MO2 to the Final Patches category and enable the mod. 
