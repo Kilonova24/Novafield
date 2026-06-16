@@ -163,7 +163,7 @@ Note: For the Suit Display settings to work you need to be on the Hide Spacesuit
 Note: To decrease/ remove the stutter when grav jumping with the new seamless grav jump mod, Disable Auto Save on Travel at the bottom of the Gameplay Settings.
 
 The modlist comes with Scarcity Options called RMB Gameplay Settings. Adjust these to your preferences. 
-Important: If you Enabled the Optional mod THP - Delevelled, disable RMB Gameplay Settings in the gameplay tab.
+Important: If you Enabled the Optional mod THP - Delevelled, disable RMB Gameplay Settings in the gameplay tab or ensure RMB is loaded after THP.
 
 ## Recommended Display Settings
 * Brightness - 2.62
