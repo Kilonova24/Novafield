@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kilonova24/Novafield/main/IF%205.png",
       "readme": "https://github.com/Kilonova24/Novafield/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_905bed8f-0445-4cf2-9d6c-5a57cd25ac37",
+      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_4274f1d8-d78e-462a-8cbf-67f28519f58b",
       "machineURL": "Novafield",
       "discordURL": "https://discord.gg/KM2eMWr2Vc",
       "websiteURL": "",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "dq+jV30C5PU=",
-      "Size": 2599801,
-      "NumberOfArchives": 794,
-      "SizeOfArchives": 215806399186,
-      "NumberOfInstalledFiles": 7372,
-      "SizeOfInstalledFiles": 217742459207,
-      "TotalSize": 433548858393
+      "Hash": "bbZwkIEwlLE=",
+      "Size": 2599291,
+      "NumberOfArchives": 793,
+      "SizeOfArchives": 215803044335,
+      "NumberOfInstalledFiles": 7369,
+      "SizeOfInstalledFiles": 217738975509,
+      "TotalSize": 433542019844
     },
-    "version": "1.48",
+    "version": "1.49",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-18T20:23:48.9790904Z",
+    "dateUpdated": "2026-06-19T22:54:59.1101219Z",
     "repositoryName": ""
   }
 ]
