@@ -16,7 +16,7 @@ I have downloaded my fair share of modlists, so instead of doing a Preamble with
 * 19 mod added weapons (with balance patches)
 * Hundreds of new immersive clothing items (NPCs wear them too)
 * Lore Friendly Ship Part Mods (Stroud Premium Edition, Varuun Technical Institute, Hopetech Ship Hab Expansion, and many more)
-* I could keep going but these are the highlights. Novafield tries to fully immerse you in the game. 
+* A modlist that tries to fully immerse you in the game. 
 
 Below are the mods that form the foundation of the collection.
 
