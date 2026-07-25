@@ -13,7 +13,7 @@ I have downloaded my fair share of modlists, so instead of doing a Preamble with
 * A main quest overhaul (no more temple grind)
 * A custom made skill overhaul that brings QoL, bug fixes, and a Player Level Progression for ranking up skills instead of the tedious skill challenges
 * A custom made weapon quality upgrade overhaul that focuses on immersive minerals and manufacturing components to upgrade gear instead of credits
-* 19 mod added weapons (with custom patches)
+* 19 mod added weapons (with balance patches)
 * Hundreds of new immersive clothing items (NPCs wear them too)
 * Lore Friendly Ship Part Mods (Stroud Premium Edition, Varuun Technical Institute, Hopetech Ship Hab Expansion, and many more)
 * I could keep going but these are the highlights
