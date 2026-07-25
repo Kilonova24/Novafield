@@ -51,8 +51,6 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * [Roleplayers' Alternate Start](https://www.nexusmods.com/starfield/mods/15094)
 
 ### Important QoL Features
-This list uses PDY (Place Doors Yourself). You need to put a door on every ship module you add or when you edit the ship's layout. The doors can be found in the Doors & Habs category. 
-* PDY allows you to have complete control over your ship's interior layout. Without it, the interior pathways are randomly generated. If you are unfamiliar with this mod and are having trouble getting it to work, do not fret. Join the Discord so us PDY experts can help you out. 
 
 * Smart Heal: Favorite this aid item to automatically use the most suitable healing item from your inventory, freeing up favorite slots. No need to favorite med, trauma, and emergency packs anymore.
 * <a href="https://www.nexusmods.com/starfield/mods/13677">Smart Inventory</a>: Found in the Decorations builder in your ship under the Miscellaneous tab. Will automatically transfer resources and other items (like ammo you are not using) to your ship’s inventory whenever you enter your ship.
@@ -118,9 +116,9 @@ Exit the game. Click on Tools at the top of MO2, hover over Tool Plugins, then c
 
 IMPORTANT: Rename the Creations and add [NoDelete] to the beginning of the Creation plugin's name to ensure the Creations stay installed after updating the list. 
 
-Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
-
-Note: Ignore the Loot Blueprint.esm Warnings after sorting. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected. 
+Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. In the right pane under Plugins, scroll down to the Creations you just enabled. You have two options:
+1. Drag the Creations above final patch.esm. (Recommended)
+2. Sort with Loot. (If you choose to Sort with Loot, ignore the BlueprintShips warning that pops up. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected.)
 
 This is also when you should download any paid Creations you want. By no means are any paid mods required.
 
@@ -128,8 +126,8 @@ The following paid mods are recommended to improve the experience.
 * [Starfield Spacer Overhaul](https://creations.bethesda.net/en/starfield/details/b541b057-8815-4892-be9c-abea7a292663/Starfield_Spacer_Overhaul)
 * [The Space Economy](https://creations.bethesda.net/en/starfield/details/eca053f6-3049-4e75-8f46-e9367d19eef8/The_Space_Economy) (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay/ Skills tab in MO2)
   * Cost of Living - Simple Taxes
-  * Cost of Spacing
   * Dark Universe Overtime Improved Rewards
+  * Harbor
   * Spacefaring Economy
   * Spacefaring Economy Crime Steal Patch
   * NovaSkills x Spacefaring Economy Patch
@@ -139,18 +137,16 @@ The following paid mods are recommended to improve the experience.
 The following popular paid mods work with this modlist. If you want to know if a certain paid mod will conflict with the modlist, please join the Discord and ask.
 * [Watchtower ](https://creations.bethesda.net/en/starfield/details/5d455df7-d99f-4619-a383-f2b39aa21e00/Watchtower__Orbital_Strike__Fleet_Command)
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
+ 
+I DO NOT RECOMMEND DOWNLOADING FALKLAND BECAUSE IT ADDS TOO MANY POINTER HANDLES TO THE GAME AND MAKES IT VERY EASY TO REACH THE PH LIMIT. REACHING THE LIMIT WILL CAUSE INVISIBLE ASSETS IN GAME LIKE MISSING FLOORS.
 
 ## Post-install
-There are two Optional Mods for this list, Spaceships+ and THP - Delevelled. I recommend reading both mod pages thourougly before enabling them. THP Delevelled will make the combat much harder.
-
-Click the blue Refresh button on the top. Click the Sort button on the Plugins tab under Novafield. If it successfully sorts AND the last mod listed in the Plugins tab on the right side of MO2 says final patch.esm, you are good to continue on. If sorting comes back with an error, join the Discord for support. 
+There are two Optional Mods for this list, Spaceships+ and THP - Delevelled. I recommend reading both mod pages thourougly before enabling them. THP Delevelled will make the combat much harder. Think of Requiem from Skyrim.
 
 IMPORTANT - Having an alt start mod installed means your gun sounds will be silent when starting a new game. Follow the bullet point listed below to fix them. All you need to do is save, quit to desktop, and reload the game.
 
 * If you chose the Vanilla starting option, create a save and then quit to Desktop after you create your character. 
 * If you chose the Custom starting option, create a save and then quit to Desktop after you leave the alternate start area. 
-
-Some mods, like Favorites Menu Extended, will not load on a brand-new game until you quit and restart the game. 
 
 You can start the main quest in a few ways: 
 1. By choosing Vanilla when starting a new game.
@@ -163,19 +159,19 @@ NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is st
 * Ammo Weight - Weighted Ammo
 * Affliction Treatment - Improve Only
 * Affliction Prognosis - Advanced
-* Sustenance - OFF (Peak Performance handles the sustenance system separately. Sleep to start Peak Performance)
+* Sustenance - OFF (oishii handles the sustenance system separately)
 * Environmental Damage & Afflictions - Advanced
 * GRiNDTerraverse Encounters Chance - Less Probability 
 * CoS: Mode - Realfuel
 
-Note: For the Suit Display settings to work you need to be on the Hide Spacesuit in Settlements setting from your Spacesuit inventory UI.
+NOTE: For the Suit Display settings to work you need to be on the Hide Spacesuit in Settlements setting from your Spacesuit inventory UI.
 * Suit Display: Settlements - Prepared 
 * Suit Display: Spaceships - Casual
 
 Note: To decrease/ remove the stutter when grav jumping with the new seamless grav jump mod, Disable Auto Save on Travel at the bottom of the Gameplay Settings.
 
-The modlist comes with Scarcity Options called RMB Gameplay Settings. Adjust these to your preferences. 
-Important: If you Enabled the Optional mod THP - Delevelled, disable RMB Gameplay Settings in the gameplay tab or ensure RMB is loaded after THP.
+The modlist comes with Scarcity Options called RMB Gameplay Settings (in game they are named Gameplay Settings Expanded). Adjust these to your preferences. 
+IMPORTANT: If you Enabled the Optional mod THP - Delevelled, disable RMB Gameplay Settings in the gameplay tab or ensure RMB is loaded after THP.
 
 ## Recommended Display Settings
 * Brightness - 2.62
