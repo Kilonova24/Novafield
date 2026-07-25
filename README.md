@@ -4,7 +4,7 @@
 
 # Preamble
 
-I have downloaded my fair share of modlists, so instead of doing a Preamble with fancy jargon, I am just going to list what you are getting when you download this list.
+I have downloaded my fair share of modlists, so instead of doing a Preamble with fancy jargon, I am just going to list what you are getting when you download Novafield.
 * A year of curating (countless bug fixes, 50+ custom mods and patches, thouroughly tested ini settings)
 * Complete Ship Combat Overhaul from ship speed to weapons (particle beams aren't the only useful weapons anymore)
 * A weapon overhaul that makes most weapons viable (particle beams aren't the only useful weapons anymore)
