@@ -4,7 +4,19 @@
 
 # Preamble
 
-This modlist is a comprehensive overhaul focused on immersion and fun. Combat is redesigned to reward tactical decision-making and thoughtful loadout choices. Ship combat has been completely rebalanced from ship speed to weapons and shields. Gameplay is enhanced with realism mods that will fully immerse you in the game. 
+I have downloaded my fair share of modlists, so instead of doing a Preamble with fancy jargon, I am just going to list what you are getting when you download this list.
+* A year of curating (countless bug fixes, 50+ custom mods and patches, thouroughly tested ini settings)
+* Complete Ship Combat Overhaul from ship speed to weapons (particle beams aren't the only useful weapons anymore)
+* A weapon overhaul that makes most weapons viable (particle beams aren't the only useful weapons anymore)
+* A custom made Enemy and Player Health Overhaul to decrease bullet sponges
+* The rbt suite (gameplay centric mods like Spacefaring Economy, Deadly Effective, Atmo, etc.)
+* A main quest overhaul (no more temple grind)
+* A custom made skill overhaul that brings QoL, bug fixes, and a Player Level Progression for ranking up skills instead of the tedious skill challenges
+* A custom made weapon quality upgrade overhaul that focuses on immersive minerals and manufacturing components to upgrade gear instead of credits
+* 19 mod added weapons (with custom patches)
+* Hundreds of new immersive clothing items (NPCs wear them too)
+* Lore Friendly Ship Part Mods (Stroud Premium Edition, Varuun Technical Institute, Hopetech Ship Hab Expansion, and many more)
+* I could keep going but these are the highlights
 
 Below are the mods that form the foundation of the collection.
 
@@ -15,14 +27,14 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 ### Key mods from top authors:
 
 #### [S1nderion (rbtRvIt)](https://www.nexusmods.com/profile/rbtRvlt?gameId=4187)
+* Atmo
 * Balanced Ballistics
 * Configurable Spacesuit Auto-Hide
 * Cost Of Living
-* Cost Of Spacing
 * Deadly Effective
-* Peak Performance
+* Harbor
+* oishii
 * Real Fuel
-* Real 02
 * Roverhaul
 * Skeleton Key - Simple Auto-Hacking
 * Spacefaring Economy
