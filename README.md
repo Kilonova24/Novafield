@@ -28,14 +28,14 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 ### Key mods from top authors:
 
 #### [S1nderion (rbtRvIt)](https://www.nexusmods.com/profile/rbtRvlt?gameId=4187)
-* Atmo
 * Balanced Ballistics
 * Configurable Spacesuit Auto-Hide
 * Cost Of Living
 * Deadly Effective
 * Harbor
-* oishii
+* Peak Performance
 * Real Fuel
+* Real O2
 * Roverhaul
 * Skeleton Key - Simple Auto-Hacking
 * Spacefaring Economy
