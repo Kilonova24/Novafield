@@ -9,7 +9,7 @@ I have downloaded my fair share of modlists, so instead of writing a Preamble wi
 * Complete Ship Combat Overhaul from ship speed to weapons (particle beams aren't the only useful weapons anymore)
 * A weapon overhaul that makes most weapons viable (particle beams aren't the only useful weapons anymore)
 * A custom made Enemy and Player Health Overhaul to decrease bullet sponges
-* The rbt suite (gameplay centric mods like Spacefaring Economy, Real Fuel, Atmo, etc.)
+* The rbt suite (gameplay centric mods like Spacefaring Economy, Real Fuel, etc.)
 * A main quest overhaul (no more temple grind)
 * A custom made skill overhaul that brings QoL, bug fixes, and a Player Level Progression for ranking up skills instead of the tedious skill challenges
 * A custom made weapon quality upgrade overhaul that focuses on immersive minerals and manufacturing components to upgrade gear instead of credits
