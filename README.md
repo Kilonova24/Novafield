@@ -4,7 +4,7 @@
 
 # Preamble
 
-Novafield is an immersive roleplaying experience built around rbt/S1nderion's mod suite. Here is what you are getting when you download Novafield:
+Novafield is an immersive roleplaying experience built around rbt/S1nderion's mod suite. Here is what you are getting when you download this modlist:
 * A year of curating (countless bug fixes, 50+ custom mods and patches, thouroughly tested ini settings)
 * Complete Ship Combat Overhaul from ship speed to weapons (particle beams aren't the only useful weapons anymore)
 * A weapon overhaul that makes most weapons viable (particle beams aren't the only useful weapons anymore)
