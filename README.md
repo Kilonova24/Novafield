@@ -5,7 +5,7 @@
 # Preamble
 
 Novafield is an immersive roleplaying experience built around rbt/S1nderion's mod suite. Here is what you are getting when you download this list:
-* A year of curating (countless bug fixes, 50+ custom mods and patches, thouroughly tested ini settings)
+* A year of curating (countless bug fixes, 50+ custom mods and patches made for this list, thoroughly tested ini settings)
 * Complete Ship Combat Overhaul from ship speed to weapons (particle beams aren't the only useful weapons anymore)
 * A weapon overhaul that makes most weapons viable (particle beams aren't the only useful weapons anymore)
 * A custom made Enemy and Player Health Overhaul to decrease bullet sponges
