@@ -129,6 +129,7 @@ The following paid mods are recommended to improve the experience.
   * Cost of Living - Simple Taxes
   * Dark Universe Overtime Improved Rewards
   * Harbor
+  * Harbor Spacefarer Patch
   * Spacefaring Economy
   * Spacefaring Economy Crime Steal Patch
   * NovaSkills x Spacefaring Economy Patch
