@@ -160,7 +160,7 @@ NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is st
 * Ammo Weight - Weighted Ammo
 * Affliction Treatment - Improve Only
 * Affliction Prognosis - Advanced
-* Sustenance - OFF (oishii handles the sustenance system separately)
+* Sustenance - OFF (Peak Performance handles the sustenance system separately)
 * Environmental Damage & Afflictions - Advanced
 * GRiNDTerraverse Encounters Chance - Less Probability 
 
