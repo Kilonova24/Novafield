@@ -2,22 +2,24 @@
   <a href="https://loadorderlibrary.com/lists/novafield">Full Modlist</a> |
   <a href="https://discord.gg/KM2eMWr2Vc">Discord</a>
 
-# Preamble
+🟠 NOVAFIELD
+Novafield is the product of a year of curation: countless bug fixes, 50+ custom mods and patches built specifically for this list, and thoroughly tested INI settings. Every system is tuned to work with the others, so the result plays like one coherent game rather than a stack of mods.
 
-Novafield is an immersive roleplaying experience built around rbt/S1nderion's mod suite. Here is what you are getting when you download this list:
-* A year of curating (countless bug fixes, 50+ custom mods and patches made for this list, thoroughly tested ini settings)
-* Complete Ship Combat Overhaul from ship speed to weapons (particle beams aren't the only useful weapons anymore)
-* A weapon overhaul that makes most weapons viable (particle beams aren't the only useful weapons anymore)
-* A custom made Enemy and Player Health Overhaul to decrease bullet sponges
-* The rbt suite (gameplay centric mods like Spacefaring Economy, Real Fuel, etc.)
-* A main quest overhaul (no more temple grind)
-* A custom made skill overhaul that brings QoL, bug fixes, and a Player Level Progression for ranking up skills instead of the tedious skill challenges
-* A custom made weapon quality upgrade overhaul that focuses on immersive minerals and manufacturing components to upgrade gear instead of credits
-* 19 mod added weapons (with balance patches)
-* Hundreds of new immersive clothing items (NPCs wear them too)
-* Lore Friendly Ship Part Mods (Stroud Premium Edition, Varuun Technical Institute, Hopetech Ship Hab Expansion, and many more)
-* Performance friendly visual overhaul (LUTs, lighting, ini settings)
-* A modlist that tries to fully immerse you in the game. 
+🟠 Combat
+Complete ship combat overhaul covering everything from ship speed to weapon behavior. 
+Weapon overhaul that makes most weapons viable. Particle beams aren't the only useful weapons anymore.
+Custom enemy and player health overhaul built for this list to cut down on bullet sponges.
+Enemy AI overhaul for deadlier and more challenging combat.
+🟠 Progression and Systems
+Custom skill overhaul bringing QoL improvements, bug fixes, and Player Level Progression for ranking up skills instead of the tedious skill challenges.
+Custom weapon quality upgrade system driven by immersive minerals and manufacturing components instead of credits. Exploration now directly rewards your gear. 
+The full rbt suite, including gameplay centric mods like Spacefaring Economy, Real Fuel, and Real O2.
+Main quest overhaul. No more temple grind.
+🟠 World and Presentation
+Hundreds of new immersive clothing items, worn by NPCs as well as the player.
+Lore friendly ship part mods such as Stroud Premium Edition, Varuun Technical Institute, Hopetech Ship Hab Expansion, and many more.
+Performance friendly visual overhaul using LUTs, lighting mods, and tuned INI settings.
+Every choice in this list serves one goal: keeping you fully immersed in the game.
 
 Below are the mods that form the foundation of the collection.
 
