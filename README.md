@@ -157,7 +157,8 @@ The following paid mods are recommended to improve the experience.
   * Spacefaring Economy Crime Steal Patch
   * NovaSkills x Spacefaring Economy Patch
   * Then download the Novaskills x The Space Economy Patch from here: [NovaSkills - Player Level Progression](https://www.nexusmods.com/starfield/mods/16422?tab=files)
-      * Drag the new patch from the Downloads tab in the right pane of MO2 to the Final Patches category and enable the mod. 
+  * And the Gallion x TSE Patch from here: [Gallion - Immersive Finance](https://www.nexusmods.com/starfield/mods/17626?tab=files)
+      * Drag the new patches from the Downloads tab in the right pane of MO2 to the Final Patches category and enable them. 
 
 The following popular paid mods work with this modlist. If you want to know if a certain paid mod will conflict with the modlist, please join the Discord and ask.
 * [Watchtower ](https://creations.bethesda.net/en/starfield/details/5d455df7-d99f-4619-a383-f2b39aa21e00/Watchtower__Orbital_Strike__Fleet_Command)
