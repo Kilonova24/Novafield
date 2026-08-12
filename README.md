@@ -187,7 +187,6 @@ NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is st
 * Affliction Prognosis - Advanced
 * Sustenance - OFF (Peak Performance handles the sustenance system separately)
 * Environmental Damage & Afflictions - Advanced
-* GRiNDTerraverse Encounters Chance - Less Probability 
 
 NOTE: For the Suit Display settings to work you need to be on the Hide Spacesuit in Settlements setting from your Spacesuit inventory UI.
 * Suit Display: Settlements - Prepared 
@@ -196,7 +195,6 @@ NOTE: For the Suit Display settings to work you need to be on the Hide Spacesuit
 Note: To decrease/ remove the stutter when grav jumping with the new seamless grav jump mod, Disable Auto Save on Travel at the bottom of the Gameplay Settings.
 
 The modlist comes with Scarcity Options called RMB Gameplay Settings (in game they are named Gameplay Settings Expanded). Adjust these to your preferences. 
-IMPORTANT: If you Enabled the Optional mod THP - Delevelled, disable RMB Gameplay Settings in the gameplay tab or ensure RMB is loaded after THP.
 
 ## Recommended Display Settings
 * Brightness - 2.62
