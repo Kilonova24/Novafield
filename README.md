@@ -140,9 +140,7 @@ Exit the game. Click on Tools at the top of MO2, hover over Tool Plugins, then c
 
 IMPORTANT: Rename the Creations and add [NoDelete] to the beginning of the Creation plugin's name to ensure the Creations stay installed after updating the list. 
 
-Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. In the right pane under Plugins, scroll down to the Creations you just enabled. You have two options:
-1. Drag the Creations above final patch.esm. (Recommended)
-2. Sort with Loot. (If you choose to Sort with Loot, ignore the BlueprintShips warning that pops up. You can also ignore Loot saying SFSE is not installed. SFSE is installed and will work as expected.)
+Make sure you click the checkbox on the now installed plugins. Click the blue Refresh button on the top. In the right pane under Plugins, scroll down to the Creations you just enabled and move them above Final Patch.esm. Make sure any patches you download from Creations (like the Take Your Time - At Hells Gate Patch) is placed below the mod it is patching. 
 
 This is also when you should download any paid Creations you want. By no means are any paid mods required.
 
