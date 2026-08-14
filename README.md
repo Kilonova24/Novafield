@@ -165,7 +165,7 @@ The following popular paid mods work with this modlist. If you want to know if a
 I DO NOT RECOMMEND DOWNLOADING FALKLAND BECAUSE IT ADDS TOO MANY POINTER HANDLES TO THE GAME AND MAKES IT VERY EASY TO REACH THE PH LIMIT. REACHING THE LIMIT WILL CAUSE INVISIBLE ASSETS IN GAME LIKE MISSING FLOORS.
 
 ## Post-install
-There are two Optional Mods for this list, Spaceships+ and THP - Delevelled. I recommend reading both mod pages thourougly before enabling them. THP Delevelled will make the combat much harder. Think of Requiem from Skyrim.
+There is one Optional Mod for this list called THP - Delevelled. I recommend reading the mod page thourougly before enabling it and its patches.THP Delevelled will make the combat much harder. 
 
 IMPORTANT - Having an alt start mod installed means your gun sounds will be silent when starting a new game. Follow the bullet point listed below to fix them. All you need to do is save, quit to desktop, and reload the game.
 
