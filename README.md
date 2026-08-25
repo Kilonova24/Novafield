@@ -168,6 +168,7 @@ I DO NOT RECOMMEND DOWNLOADING FALKLAND BECAUSE IT ADDS TOO MANY POINTER HANDLES
 There is one Optional Mod for this list called THP - Delevelled. I recommend reading the mod page thoroughly before enabling it and its patches. THP Delevelled will make the combat much harder. 
 
 IMPORTANT - If you are seeing any Lookup Failed! errors in game, redownload the list with the same install paths. It will go by quick since the list is already installed. Seems Wabba needs another go around to get it right.
+
 IMPORTANT - Having an alt start mod installed means your gun sounds will be silent when starting a new game. Follow the bullet point listed below to fix them. All you need to do is save, quit to desktop, and reload the game.
 
 * If you chose the Vanilla starting option, create a save and then quit to Desktop after you create your character. 
