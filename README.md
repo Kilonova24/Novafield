@@ -169,7 +169,7 @@ There is one Optional Mod for this list called THP - Delevelled. I recommend rea
 
 IMPORTANT - If you are seeing any Lookup Failed! errors in game, redownload the list with the same install paths. It will go by quick since the list is already installed. Seems Wabba needs another go around to get it right.
 
-IMPORTANT - Having an alt start mod installed means your gun sounds will be silent when starting a new game. Follow the bullet point listed below to fix them. All you need to do is save, quit to desktop, and reload the game.
+IMPORTANT - Having an alt start mod installed means your gun sounds will be silent when starting a new game. Follow the bullet points listed below to fix them. All you need to do is save, quit to desktop, and reload the game.
 
 * If you chose the Vanilla starting option, create a save and then quit to Desktop after you create your character. 
 * If you chose the Custom starting option, create a save and then quit to Desktop after you leave the alternate start area. 
