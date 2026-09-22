@@ -54,8 +54,8 @@ The full modlist can be viewed here: https://loadorderlibrary.com/lists/novafiel
 * Balanced Ballistics
 * Configurable Spacesuit Auto-Hide
 * Cost Of Living
+* Cost of Spacing
 * Deadly Effective
-* Harbor
 * Peak Performance
 * Real Fuel
 * Real O2
@@ -148,11 +148,9 @@ The following paid mods are recommended to improve the experience.
 * [Starfield Spacer Overhaul](https://creations.bethesda.net/en/starfield/details/b541b057-8815-4892-be9c-abea7a292663/Starfield_Spacer_Overhaul)
 * [The Space Economy](https://creations.bethesda.net/en/starfield/details/eca053f6-3049-4e75-8f46-e9367d19eef8/The_Space_Economy) (If you want to use rbt/S1nderion's new economy mod, disable the following in the Gameplay/ Skills tab in MO2)
   * Cost of Living - Simple Taxes
+  * Cost of Spacing
   * Dark Universe Overtime Improved Rewards
-  * Harbor
-  * Harbor Spacefarer Patch
   * Spacefaring Economy
-  * Spacefaring Economy Crime Steal Patch
   * NovaSkills x Spacefaring Economy Patch
   * Then download the Novaskills x The Space Economy Patch from here: [NovaSkills - Player Level Progression](https://www.nexusmods.com/starfield/mods/16422?tab=files)
   * And the Gallion x TSE Patch from here: [Gallion - Immersive Finance](https://www.nexusmods.com/starfield/mods/17626?tab=files)
@@ -161,8 +159,6 @@ The following paid mods are recommended to improve the experience.
 The following popular paid mods work with this modlist. If you want to know if a certain paid mod will conflict with the modlist, please join the Discord and ask.
 * [Watchtower ](https://creations.bethesda.net/en/starfield/details/5d455df7-d99f-4619-a383-f2b39aa21e00/Watchtower__Orbital_Strike__Fleet_Command)
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
- 
-I DO NOT RECOMMEND DOWNLOADING FALKLAND BECAUSE IT ADDS TOO MANY POINTER HANDLES TO THE GAME AND MAKES IT VERY EASY TO REACH THE PH LIMIT. REACHING THE LIMIT WILL CAUSE INVISIBLE ASSETS IN GAME LIKE MISSING FLOORS.
 
 ## Post-install
 There is one Optional Mod for this list called THP - Delevelled. I recommend reading the mod page thoroughly before enabling it and its patches. THP Delevelled will make the combat much harder. 
@@ -178,8 +174,6 @@ You can start the main quest in a few ways:
 1. By choosing Vanilla when starting a new game.
 2. By finding the artifact in a procedurally generated cave while exploring POIs. 
 3. By visiting the Valberg Building in New Atlantis. Talking to the receptionist will auto start the intro sequence for the game. All of your stuff will be moved to a locker that you can access after you complete the intro sequence in the mine.
-   
-NOTE: The mod Auto Hide HUD and Widgets will not work until the main quest is started. There is a Narrative Adjustment Data Slate in the alternate start area that lets you auto complete the "One Small Step" quest which will activate this mod. Doing this means you will have to find the artifact in a procedurally generated cave to officially start the main quest. 
 
 ## Recommended Gameplay Settings
 * Ammo Weight - Weighted Ammo
@@ -193,17 +187,3 @@ NOTE: For the Suit Display settings to work you need to be on the Hide Spacesuit
 * Suit Display: Spaceships - Casual
 
 Note: To decrease/ remove the stutter when grav jumping with the new seamless grav jump mod, Disable Auto Save on Travel at the bottom of the Gameplay Settings.
-
-The modlist comes with Scarcity Options called RMB Gameplay Settings (in game they are named Gameplay Settings Expanded). Adjust these to your preferences. 
-
-## Recommended Display Settings
-* Brightness - 2.62
-* Contrast - 0.90
-* Film Grain - 0
-* Depth of Field - On
-
-Note: DLSS and FSR are trash in this game. Unless you are using Optiscaler to get the newer versions of these upscalers, try using XESS - Quality. It's what I use on my 9070XT and what a lot of other people recommend as well for the options Bethesda gave us.
-
-## Recommended Accessibility Settings
-* First Person FOV: 100
-* Always Show Landing Camera: On
