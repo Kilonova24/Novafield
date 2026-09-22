@@ -161,7 +161,7 @@ The following popular paid mods work with this modlist. If you want to know if a
   * Not Yet Watchtower (Free, download this too if you want to use Watchtower)
 
 ## Post-install
-There is one Optional Mod for this list called THP - Delevelled. I recommend reading the mod page thoroughly before enabling it and its patches. THP Delevelled will make the combat much harder. 
+There are two Optional Mods for this list. THP - Delevelled (with patches) and Toggle Quest Markers with Scanner. I recommend reading the Delevelled mod page thoroughly before enabling it and its patches. THP Delevelled will make the combat much harder. 
 
 IMPORTANT - If you are seeing any Lookup Failed! errors in game, redownload the list with the same install paths. It will go by quick since the list is already installed. Seems Wabba needs another go around to get it right.
 
