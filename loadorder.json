@@ -1,0 +1,5208 @@
+[
+  {
+    "enabled": true,
+    "id": "Starfield.esm",
+    "name": "Starfield.esm",
+    "modId": "53_a6_7b_53a67bff-8e4b-4323-b663-a37c96bb4f44",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "ShatteredSpace.esm",
+    "name": "ShatteredSpace.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "BlueprintShips-Starfield.esm",
+    "name": "BlueprintShips-Starfield.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS003.esm",
+    "name": "SFBGS003.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS004.esm",
+    "name": "SFBGS004.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS006.esm",
+    "name": "SFBGS006.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS007.esm",
+    "name": "SFBGS007.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "SFBGS008.esm",
+    "name": "SFBGS008.esm",
+    "locked": true
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs00d.esm",
+    "name": "sfbgs00d.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs050.esm",
+    "name": "sfbgs050.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sfbgs047.esm",
+    "name": "sfbgs047.esm",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "unofficial starfield patch.esm",
+    "name": "unofficial starfield patch.esm",
+    "modId": "Unofficial Starfield Patch-143-1-0-7b-1748827158",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "unofficial shattered space patch.esm",
+    "name": "unofficial shattered space patch.esm",
+    "modId": "Unofficial Shattered Space Patch-143-1-0-3a-1748717916",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "unofficial terran armada patch.esm",
+    "name": "unofficial terran armada patch.esm",
+    "modId": "Unofficial Terran Armada Patch-143-1-0-0-1778890118",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "qwertys mini fixes.esm",
+    "name": "qwertys mini fixes.esm",
+    "modId": "Qwerty's Mini Fixes 16884 1.3.0 2026-09-20T11-03Z 6MfXKu2U7",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "qwertys mini fixes for shattered space.esm",
+    "name": "qwertys mini fixes for shattered space.esm",
+    "modId": "Qwertys Mini Fixes For Shattered Space 18248 1.1.0 2026-09-20T10-41Z i2dzCnqaf",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "randomnpcheights.esm",
+    "name": "randomnpcheights.esm",
+    "modId": "NPC Height Variation Mod (FOMOD)-7466-1-0-3-1704318618",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shipbuildercategories.esm",
+    "name": "shipbuildercategories.esm",
+    "modId": "Ship Builder Categories-7310-1-18-0-1760219434",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_immersivecargoholds.esm",
+    "name": "dwn_immersivecargoholds.esm",
+    "modId": "Immersive Cargo Halls-14217-1-0-1-1753200677",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neonexpansion.esm",
+    "name": "neonexpansion.esm",
+    "modId": "NeonExpansion-16354-1-4-2-1776350792",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "testing toilet sink 1.esm",
+    "name": "testing toilet sink 1.esm",
+    "modId": "Usable Toilets and Coffee Machines 17828 0.85 2026-08-17T17-36Z LsN5Bvm4n",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dazrauncut.esm",
+    "name": "dazrauncut.esm",
+    "modId": "Dazra Uncut 2.1-15897-2-1-1770065532",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "functionaldecor.esm",
+    "name": "functionaldecor.esm",
+    "modId": "Functional Decor-10789-2-12-1754826469",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bmxcoolerreplacer.esm",
+    "name": "bmxcoolerreplacer.esm",
+    "modId": "BMXCoolerReplacer-16740-2-1776870044",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "cydoniaalt.esm",
+    "name": "cydoniaalt.esm",
+    "modId": "Cydonia Rear Entrance-13821-1-1-2-1754768576",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_dreamhomeoverhaul.esm",
+    "name": "dwn_dreamhomeoverhaul.esm",
+    "modId": "Dream Home Overhaul - Main-10294-2-10-1743012176",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neonsleepcrate_z.esm",
+    "name": "neonsleepcrate_z.esm",
+    "modId": "XL Sleepcrate-14410-1-01-1754100258",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stlazarusawakened.esm",
+    "name": "stlazarusawakened.esm",
+    "modId": "Lazarus Awakened v2.0-12505-2-00-1732237547",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "newhomesteadnewdawn.esm",
+    "name": "newhomesteadnewdawn.esm",
+    "modId": "New Homestead - New Dawn-16325-1-0-1775324001",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neoncoreseriousbusiness.esm",
+    "name": "neoncoreseriousbusiness.esm",
+    "modId": "Neon Core - Serious Business 17818 1 2026-07-31T11-31Z DY4cSq3LU",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neonnoir_ramenshop.esm",
+    "name": "neonnoir_ramenshop.esm",
+    "modId": "Neon Noir - Ramen Shop 18219 1 2026-09-12T16-32Z uwyho17tR",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "clothing_effect_remover.esm",
+    "name": "clothing_effect_remover.esm",
+    "modId": "Clothing Effect Remover-14888-1-0-1757827949",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "immersive play showers mod.esm",
+    "name": "immersive play showers mod.esm",
+    "modId": "Immersive Play Showers Mod 17851 0.7 2026-08-07T13-07Z KeusfolTu",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "poicooldown.esm",
+    "name": "poicooldown.esm",
+    "modId": "POI Cooldown-9532-3-1776415289",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_upgradedcompanions.esm",
+    "name": "aurie_upgradedcompanions.esm",
+    "modId": "Upgraded Companions-12030-1-4-1753316352",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tnshipmodsallinone.esm",
+    "name": "tnshipmodsallinone.esm",
+    "modId": "TN's Ship Modifications All In One-6376-v3-2-0-1746518407",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sdp_viewporthotel.esm",
+    "name": "sdp_viewporthotel.esm",
+    "modId": "New Atlantis Hotel Viewport-14411-1-2-1772365830",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stroudpremiumedition.esm",
+    "name": "stroudpremiumedition.esm",
+    "modId": "Stroud Premium Edition-12330-2-3-3-1755863783",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "patch_spe_vh.esm",
+    "name": "patch_spe_vh.esm",
+    "modId": "Viewport x SPE Patch-14411-1-2-1772366112",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starluminous - lighting overhaul.esm",
+    "name": "starluminous - lighting overhaul.esm",
+    "modId": "StarLuminous - Lighting Overhaul 1.09-10466-1-09-1722380153",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thewell_apartment_z.esm",
+    "name": "thewell_apartment_z.esm",
+    "modId": "The Well Apartment 79-14973-1-01-1759391261",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "theden_laststop.esm",
+    "name": "theden_laststop.esm",
+    "modId": "The Den - Last Stop-17173-1-1779445045",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mercurypenthousefurnished.esm",
+    "name": "mercurypenthousefurnished.esm",
+    "modId": "Mercury Penthouse Furnished-10121-1-01-1719241213",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shopkeeperschedules.esm",
+    "name": "shopkeeperschedules.esm",
+    "modId": "NPC Routines Expanded - Robot Vendors-12140-2-2-1775595054",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_thegangsallhere.esm",
+    "name": "aurie_thegangsallhere.esm",
+    "modId": "The Gang's All Here-7469-4-1-1753399027",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vehicles.esm",
+    "name": "vehicles.esm",
+    "modId": "Parked Vehicles 1 0-13838-1-0-1746888706",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bmxcoolerreplacerdlcpatch.esm",
+    "name": "bmxcoolerreplacerdlcpatch.esm",
+    "modId": "BMXCoolerReplacerDLCPatch-16740-1-1776867004",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "newatlantisperimetergate.esm",
+    "name": "newatlantisperimetergate.esm",
+    "modId": "N.A.P.G. - New Atlantis Perimeter Gate 17664 1 2026-07-08T17-22Z 56289li8R",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "lvx_dynamicprison.esm",
+    "name": "lvx_dynamicprison.esm",
+    "modId": "Dynamic Prisons-16922-1-0-2-1777906837",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "morelore_kreetlab.esm",
+    "name": "morelore_kreetlab.esm",
+    "modId": "More Lore - Kreet Research Lab-15532-1-0-1-1764731092",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_factionplayerrooms.esm",
+    "name": "dwn_factionplayerrooms.esm",
+    "modId": "Faction Player Rooms-13735-1-2-1747413689",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sr_laredofirearms.esm",
+    "name": "sr_laredofirearms.esm",
+    "modId": "Slightly Better Laredo Firearms 17763 1.0 2026-07-24T16-32Z kRcAwxoXy",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sr_cj.esm",
+    "name": "sr_cj.esm",
+    "modId": "CJ'S Store Improved 17695 1.0 2026-07-14T14-40Z roMv7e6oN",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tradetower_astrallounge.esm",
+    "name": "tradetower_astrallounge.esm",
+    "modId": "Nightlife VS Corpo Life-14906-1-0-1758029949",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "skysuitefurnished.esm",
+    "name": "skysuitefurnished.esm",
+    "modId": "Sky Suite Furnished and Expanded-9796-1-3-1719830642",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_integratedshipoptimizationterminal.esm",
+    "name": "dwn_integratedshipoptimizationterminal.esm",
+    "modId": "Integrated Ship Optimization Terminal-16412-1-0-1775821038",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "newatlantislightscheck.esm",
+    "name": "newatlantislightscheck.esm",
+    "modId": "Light in the Dark - New Atlantis-12622-1-35-1734632607",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sr_jemisonmercantile.esm",
+    "name": "sr_jemisonmercantile.esm",
+    "modId": "SBJM - No Boxes Behind Counter 17540 1 2026-06-26T03-19Z Siqx4ggJY",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rrld - rabbit's real lights dazra.esm",
+    "name": "rrld - rabbit's real lights dazra.esm",
+    "modId": "RRLD- Rabbit's Real Lights Dazra-11933-0-1-1728313535",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_thegangsallhereshatteredspace.esm",
+    "name": "aurie_thegangsallhereshatteredspace.esm",
+    "modId": "The Gang's All Here - Shattered Space-7469-4-1-1753399063",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ucdc_onduty_compatibiltyversion.esm",
+    "name": "ucdc_onduty_compatibiltyversion.esm",
+    "modId": "UC Distribution Center - On Duty (COMPATIBILITY)-15944-1-0-1772301217",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_thekeyquartersfurnished.esm",
+    "name": "dwn_thekeyquartersfurnished.esm",
+    "modId": "The Key - Captain's Quarter Furnished-12128-1-0-1729263088",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_anchorpointexpanded.esm",
+    "name": "dwn_anchorpointexpanded.esm",
+    "modId": "Anchorpoint Expanded-16742-1-0-0-1776871710",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bmxoutpost.esm",
+    "name": "bmxoutpost.esm",
+    "modId": "BMXOutpost-13570-1-262-1769236493",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "smartinventory.esm",
+    "name": "smartinventory.esm",
+    "modId": "Smart Inventory-13677-1-2-2-1749738845",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sr_ucsecurity.esm",
+    "name": "sr_ucsecurity.esm",
+    "modId": "Slightly Better UC Security Office 17684 1 2026-07-11T17-18Z AHEeGDP6E",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thecorefurnished.esm",
+    "name": "thecorefurnished.esm",
+    "modId": "The Core Expanded and Furnished-9857-1-3-1780335665",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "outland_frontierready.esm",
+    "name": "outland_frontierready.esm",
+    "modId": "Outland - Frontier Ready-16110-1-0-1772294804",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_communityspaceshipexpansion.esm",
+    "name": "dwn_communityspaceshipexpansion.esm",
+    "modId": "Community Spaceship Expansion 14174 2.0.1 2026-07-26T14-40Z cjtExT1Lt",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_newhomsteadnovastore.esm",
+    "name": "dwn_newhomsteadnovastore.esm",
+    "modId": "Nova Galactic Store-14433-1-1-0-1753636285",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_redmileblackjack.esm",
+    "name": "dwn_redmileblackjack.esm",
+    "modId": "Red Mile Blackjack Table-14641-1-3-1-1756642025",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hopetownnewdawn.esm",
+    "name": "hopetownnewdawn.esm",
+    "modId": "Hopetown - New Dawn-16010-1-0-1770739240",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shutupcora.esm",
+    "name": "shutupcora.esm",
+    "modId": "Shut Up Cora - Less Chatter While Flying-8424-2-1-0-1726708449",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "brsm_expandedbackgrounds.esm",
+    "name": "brsm_expandedbackgrounds.esm",
+    "modId": "Expanded Backgrounds-15724-0-3-0-1768192177",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "herald.esm",
+    "name": "herald.esm",
+    "modId": "Herald-11878-1-1-1760094478",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gagarinnewdawn.esm",
+    "name": "gagarinnewdawn.esm",
+    "modId": "Gagarin - New Dawn-14694-1-0-1756502343",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "slightly better rowland arms.esm",
+    "name": "slightly better rowland arms.esm",
+    "modId": "Slightly Better Rowland Arms 17914 1.0 2026-08-12T16-42Z NhJ2vW08T",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "check_subtledetails.esm",
+    "name": "check_subtledetails.esm",
+    "modId": "Subtle Starport Visuals-15598-1-0-1765122605",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "light in the dark akila city.esm",
+    "name": "light in the dark akila city.esm",
+    "modId": "Light in the Dark - Akila City-12637-1-11-1734370279",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rrlp - rabbit's real lights paradiso.esm",
+    "name": "rrlp - rabbit's real lights paradiso.esm",
+    "modId": "RRLP - Rabbit's Real Lights Paradiso-11701-1-0-1727219234",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "take your time.esm",
+    "name": "take your time.esm",
+    "modId": "Take Your Time-10419-1-3-0-1755979357",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "revelation.esm",
+    "name": "revelation.esm",
+    "modId": "Revelation-10418-1-5-0-1776310631",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "legacysendwildcard.esm",
+    "name": "legacysendwildcard.esm",
+    "modId": "Legacy's End - Wild Card-14225-1-0-1750891540",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ucvanguard_expandedpresence.esm",
+    "name": "ucvanguard_expandedpresence.esm",
+    "modId": "UC Vanguard - Expanded Presence-15880-1-0-1768926758",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "refinedreliantmedical.esm",
+    "name": "refinedreliantmedical.esm",
+    "modId": "Refined Reliant Medical 17523 1.1 2026-07-01T04-00Z 56289llpK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "completeweatheroverhaul.esm",
+    "name": "completeweatheroverhaul.esm",
+    "modId": "Complete Weather Overhaul - Vanilla Timescale-14644-1-2-1-1775587131",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_sfe_ss.esm",
+    "name": "rbt_sfe_ss.esm",
+    "modId": "Spacefaring Economy-12022-1-0-final-1758740491",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_spacefaringeconomy_values.esm",
+    "name": "rbt_spacefaringeconomy_values.esm",
+    "modId": "Spacefaring Economy-12022-1-0-final-1758740491",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "northern lights.esm",
+    "name": "northern lights.esm",
+    "modId": "Northern Lights-11836-1-01-1728197967",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tnoutpoststorage.esm",
+    "name": "tnoutpoststorage.esm",
+    "modId": "TN's Outpost Storage Multiplier-6010-v1-4-1730835219",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_realfuel_re.esm",
+    "name": "rbt_realfuel_re.esm",
+    "modId": "Real Fuel - BETA-13306-1-1-5RE-Beta-1753568858",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "roleplayersalternatestart.esm",
+    "name": "roleplayersalternatestart.esm",
+    "modId": "Roleplayer's Alternate Start-15094-1-1-7-1778873242",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nwef.esm",
+    "name": "nwef.esm",
+    "modId": "NWEF 6-8024-6-1728887268",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "novaskills.esm",
+    "name": "novaskills.esm",
+    "modId": "NovaSkills 16422 1.1 2026-08-19T01-11Z vPWlJVXQY",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "el jefe combat ai.esm",
+    "name": "el jefe combat ai.esm",
+    "modId": "El Jefe Combat AI-13194-1-7-1766839925.1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "groundedenemies.esm",
+    "name": "groundedenemies.esm",
+    "modId": "Grounded Enemies-16957-1-01-1780633083",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thp_weaponoverhaul.esm",
+    "name": "thp_weaponoverhaul.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gluttony.esm",
+    "name": "gluttony.esm",
+    "modId": "Gluttony-14202-1-0-1750601948",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_deadlyeffective.esm",
+    "name": "rbt_deadlyeffective.esm",
+    "modId": "Dea-11834-1-2-6-1759638174",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxdepatch.esm",
+    "name": "nskxdepatch.esm",
+    "modId": "NSKxDEPatch-16422-1-0-1775979134",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "disciplines.esm",
+    "name": "disciplines.esm",
+    "modId": "Disciplines-16030-1-1-1775452748",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rugseamfix.esm",
+    "name": "rugseamfix.esm",
+    "modId": "Rug Seam Fix-13287-1-0-1740243500",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "depleteduraniumroundsbugfix.esm",
+    "name": "depleteduraniumroundsbugfix.esm",
+    "modId": "Depleted Uranium Rounds - Visual Bug Fix-15255-1-0-1762193711",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "galacticmeshfixes.esm",
+    "name": "galacticmeshfixes.esm",
+    "modId": "Galactic Mesh Fixes-13258-0-10-1755359934",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "respect my authority - ryujin.esm",
+    "name": "respect my authority - ryujin.esm",
+    "modId": "Respect My Authority - Ryujin-14165-1-0-1750157865",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stayinyourspace.esm",
+    "name": "stayinyourspace.esm",
+    "modId": "Stay in Your Space-14106-1-1-1760084679",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_showdatewhenwakingup.esm",
+    "name": "sp2_showdatewhenwakingup.esm",
+    "modId": "Show Date When Waking Up-9288-2-0-4-1743561300",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "biggersystems.esm",
+    "name": "biggersystems.esm",
+    "modId": "Bigger Systems-14256-1-1-1757622877",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "clear reflective glass.esm",
+    "name": "clear reflective glass.esm",
+    "modId": "Regular (ESM) Version-13231-1-0-1739556622",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hal_better_actor_fire.esm",
+    "name": "hal_better_actor_fire.esm",
+    "modId": "Better Actor Fire Effect-10939-1-0-1723474166",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hal_better_metal_impact_effects.esm",
+    "name": "hal_better_metal_impact_effects.esm",
+    "modId": "1.11-13179-1-11-1739343345",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "norev8lensflare.esm",
+    "name": "norev8lensflare.esm",
+    "modId": "No REV-8 Lens Flare-13100-1-1738049997",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "pxc_expandeddossier.esm",
+    "name": "pxc_expandeddossier.esm",
+    "modId": "Expanded Dossier-11665-1-0-0-1727009017",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "pxc_dataslatedark.esm",
+    "name": "pxc_dataslatedark.esm",
+    "modId": "Dataslate Dark-11655-1-0-0-1727009290",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rtm - safes redone.esm",
+    "name": "rtm - safes redone.esm",
+    "modId": "RTM - Safes Redone (esm)-16757-1-0-1776930644",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stfi hd planets.esm",
+    "name": "stfi hd planets.esm",
+    "modId": "STFI HD Planets - Textures01-16332-1-0-1776810575",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "subtleflashlight - blue - spec.esm",
+    "name": "subtleflashlight - blue - spec.esm",
+    "modId": "Subtle Flashlight - Blue (With Specular)-11018-1-3-1727598541",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_hair+beards_z.esm",
+    "name": "starfield_hair+beards_z.esm",
+    "modId": "Starfield Hair and Beards-8364-2-2-1753764496",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "idg_elegant_haircollection.esm",
+    "name": "idg_elegant_haircollection.esm",
+    "modId": "IDG Elegant Hair Collection V1.3 17706 1.3 2026-08-12T11-03Z avXC0s8jL",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "taliohs_hairboosterpack.esm",
+    "name": "taliohs_hairboosterpack.esm",
+    "modId": "Hair Booster Pack-16942-1-0-1777825075",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "taliohs_haircollection.esm",
+    "name": "taliohs_haircollection.esm",
+    "modId": "Hair Collection-16126-1-1-1774990328",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "fieldos_naturalhair.esm",
+    "name": "fieldos_naturalhair.esm",
+    "modId": "Natural Hair Colours 17775 1.1.1 2026-07-26T22-35Z 34Q1HFGSr",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ftl.esm",
+    "name": "ftl.esm",
+    "modId": "FTL Grav Jump Overhaul 1.3 17971 1.3.4 2026-09-03T13-12Z gn9b52YY1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "disablegravjumpflash.esm",
+    "name": "disablegravjumpflash.esm",
+    "modId": "Seamless Grav Jumps 17159 1.26 2026-08-20T16-39Z kRcAwxoau",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hal_better_na_waterfall.esm",
+    "name": "hal_better_na_waterfall.esm",
+    "modId": "1.1 ver-13027-1-1-1737478360",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "balancedballistics_re.esm",
+    "name": "balancedballistics_re.esm",
+    "modId": "Balanced Ballistics-8541-1-11RE-1749998159",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "groundedenemiesta.esm",
+    "name": "groundedenemiesta.esm",
+    "modId": "Grounded Enemies TA DLC-16957-1-0-1780549140",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "arx-15.esm",
+    "name": "arx-15.esm",
+    "modId": "ARX 15 (Free Lanes Update)-13471-1-2-1775789792",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "flycloser.esm",
+    "name": "flycloser.esm",
+    "modId": "Fly Closer 17749 1.0 2026-07-22T23-13Z NhJ2vW09g",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gallion.esm",
+    "name": "gallion.esm",
+    "modId": "Gallion 17626 1.23 2026-07-18T07-29Z 56289liH8",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kbar32.esm",
+    "name": "kbar32.esm",
+    "modId": "KBAR-32 (AA BAR-32) 12271 1.5.7 2026-08-18T22-01Z uwyho17bj",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "groundedenemiesss.esm",
+    "name": "groundedenemiesss.esm",
+    "modId": "Grounded Enemies SS DLC-16957-1-0-1780549122",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfieldsmithingupdated.esm",
+    "name": "starfieldsmithingupdated.esm",
+    "modId": "Starfield Smithing 15199 2.3 2026-06-24T07-09Z 8XBgLNNLs",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shotgunner's momentum.esm",
+    "name": "shotgunner's momentum.esm",
+    "modId": "Shotgunner's Momentum 17391 1 2026-06-12T03-08Z XWUnshh9V",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "50gs.esm",
+    "name": "50gs.esm",
+    "modId": "50GS - Vanilla-13213-1-3-2-1775738746",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxthp_aimrecoilpatch.esm",
+    "name": "bbxthp_aimrecoilpatch.esm",
+    "modId": "BBxTHP Aim Recoil Patch 14993 1.0 2026-08-14T06-39Z OSHy3QAjy",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "50gs_thp_weaponoverhaul_patch.esm",
+    "name": "50gs_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "better explosives.esm",
+    "name": "better explosives.esm",
+    "modId": "Better Explosives-9650-1-0-2-1718869617",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crowdkids.esm",
+    "name": "crowdkids.esm",
+    "modId": "Crowd Kids-10830-1-00-1722817245",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "additional armor mods.esm",
+    "name": "additional armor mods.esm",
+    "modId": "Additional Armor Mods-17023-1-0-1778427806",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_icy_swamp_porrimaivd.esm",
+    "name": "zyp_icy_swamp_porrimaivd.esm",
+    "modId": "ZYP Icy Moon - Porrima IV-d 14915 1.1.0 2026-07-04T06-48Z DY4cSqqii",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sit to add ship.esm",
+    "name": "sit to add ship.esm",
+    "modId": "Sit to Add Ship to Fleet-6493-0-2-4-1699789858",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "astrallounge_neonswildestnight.esm",
+    "name": "astrallounge_neonswildestnight.esm",
+    "modId": "ALT - Astral Lounge - Neon's wildest night-14506-1-0-1754901162",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "estellevincentcompanionwildcard.esm",
+    "name": "estellevincentcompanionwildcard.esm",
+    "modId": "Wild Card Ending-13233-1-1-1754516782",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "varuuntechnicalinstituteshiphabs.esm",
+    "name": "varuuntechnicalinstituteshiphabs.esm",
+    "modId": "VTI Ship Habs-14947-5-1-2-1760665731",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "booksofstarfield.esm",
+    "name": "booksofstarfield.esm",
+    "modId": "Books of Starfield-13867-1-2-1-1764474481",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_balancedballistics_ta.esm",
+    "name": "rbt_balancedballistics_ta.esm",
+    "modId": "Balanced Ballistics TA-8541-1-2-1776351886",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sr_jemisonmercantile npc routines patch.esm",
+    "name": "sr_jemisonmercantile npc routines patch.esm",
+    "modId": "Jemison Mercantile - NPC Routines Patch 17540 1.1 2026-08-02T06-33Z Clnmd6gBz",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "clothingpack_standalone_z.esm",
+    "name": "clothingpack_standalone_z.esm",
+    "modId": "ZoNE79 ClothingPack - Standalone (ZBB) 11255 1.6 2026-09-18T05-26Z tmbST8Rnr",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eit_clothiers_z.esm",
+    "name": "eit_clothiers_z.esm",
+    "modId": "Eit Clothiers (ZBB)-8473-2-1-1737917402",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "int_glassless_cockpits.esm",
+    "name": "int_glassless_cockpits.esm",
+    "modId": "INTmod_Glassless_Cockpits-12446-1-123-1732754466",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_allcockpitsnavconsoles.esm",
+    "name": "sp2_allcockpitsnavconsoles.esm",
+    "modId": "All Cockpits Have Nav Consoles-7960-2-0-1-1718319598",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zal_mantislair.esm",
+    "name": "zal_mantislair.esm",
+    "modId": "Zal_MantisLair-1.9 13783 1.9 2026-09-08T11-56Z 56289liNz",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mattells cockpits solitude series.esm",
+    "name": "mattells cockpits solitude series.esm",
+    "modId": "Mattell's Cockpits Solitude Series 12922 3.8 2026-07-11T23-21Z DY4cSq32u",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gluttony - shattered space.esm",
+    "name": "gluttony - shattered space.esm",
+    "modId": "Gluttony - Shattered Space-14202-1-0-1750601986",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sbcpatch.esm",
+    "name": "sbcpatch.esm",
+    "modId": "SBC x TN AiO Doors Patch-14993-1-1-1780280889",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "infirmary.esm",
+    "name": "infirmary.esm",
+    "modId": "Functional Infirmaries 2.0-6386-2-0-1699317819",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sr_cj npc routines patch.esm",
+    "name": "sr_cj npc routines patch.esm",
+    "modId": "CJ'S Store Improved - NPC Routines Patch 17695 1.0 2026-08-02T06-51Z Y9Cjid48k",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mattells cockpits crew series.esm",
+    "name": "mattells cockpits crew series.esm",
+    "modId": "Mattell's Cockpits and Bridges Crew Series-13217-3-41-1750184861",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rrlc - rabbit's real lights cydonia.esm",
+    "name": "rrlc - rabbit's real lights cydonia.esm",
+    "modId": "RRLC - Rabbit's Real Lights Cydonia-11224-1-0-1-1724880324",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nomad_spacesuit_z.esm",
+    "name": "nomad_spacesuit_z.esm",
+    "modId": "Nomad Spacesuit-9520-1-8-1723836562",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "varuunx_z.esm",
+    "name": "varuunx_z.esm",
+    "modId": "Varuun X (ZBB)-11657-1-0-1731787082",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "battenswrecks.esm",
+    "name": "battenswrecks.esm",
+    "modId": "Batten's Wrecks-10577-0-4-1-1724937078",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimsonx_z.esm",
+    "name": "crimsonx_z.esm",
+    "modId": "CrimsonX (ZBB)-9097-2-0-1738719087",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crimson x distributed [sm].esm",
+    "name": "crimson x distributed [sm].esm",
+    "modId": "Crimson X Distributed (SM)-12452-1-0-1731977741",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eit z distributed [sm].esm",
+    "name": "eit z distributed [sm].esm",
+    "modId": "Spacers EIT Z Distributed (SM)-12531-1-1-1774403221",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "additionalpois_mars.esm",
+    "name": "additionalpois_mars.esm",
+    "modId": "Additional POIs - Mars (Loose Files) 16869 1.0 2026-06-20T15-40Z ZTp3Rjjsd",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "allvehicleshavestorage.esm",
+    "name": "allvehicleshavestorage.esm",
+    "modId": "All Vehicles Have Storage-13993-1-0-0-1748697383",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_configurablesuitdisplay.esm",
+    "name": "rbt_configurablesuitdisplay.esm",
+    "modId": "Configurable Suit Auto-Hide-15121-0-1-1760838572",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ith-shipweaponsf.esm",
+    "name": "ith-shipweaponsf.esm",
+    "modId": "Ship Combat Revised - Weapons - V1.42-9371-2-0-1777409215",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "seeyourselfsleep.esm",
+    "name": "seeyourselfsleep.esm",
+    "modId": "ImmerSleep - See Yourself Sleeping-6672-1-4-1740426090",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vigilancevo.esm",
+    "name": "vigilancevo.esm",
+    "modId": "Vigilance Visual Overhaul v0.2-11717-0-2-1727651989",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "alternate vasco.esm",
+    "name": "alternate vasco.esm",
+    "modId": "Alternate Vasco-6153-5-0-1-1760650756",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "royalakila.esm",
+    "name": "royalakila.esm",
+    "modId": "Royal Ashta And Akila-8198-1-6-1707674786",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "astralloungeplus_females.esm",
+    "name": "astralloungeplus_females.esm",
+    "modId": "All Females-6864-2-01-1718641918",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "take your time - shattered space.esm",
+    "name": "take your time - shattered space.esm",
+    "modId": "Take Your Time - Shattered Space-10419-1-0-1-1751831441",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "paradiso resort - hotel expansion 1.1.esm",
+    "name": "paradiso resort - hotel expansion 1.1.esm",
+    "modId": "Paradiso Resort - Hotel Expansion-14456-1-1-1753610237",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "alternateparadisoetr.esm",
+    "name": "alternateparadisoetr.esm",
+    "modId": "Alternate Paradiso Solution-9675-1-03-1718773117",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "altshipoptimizationterminal.esm",
+    "name": "altshipoptimizationterminal.esm",
+    "modId": "Alternative Ship Optimization Terminal-13466-1-1776646704",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "andrejaalter.esm",
+    "name": "andrejaalter.esm",
+    "modId": "Andreja Visual Replacer Loose Files-17271-1-01-1780410236",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "grindterravbo.esm",
+    "name": "grindterravbo.esm",
+    "modId": "GRiNDTerraVBO-16176-2-0-1774062404",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_snowyvolcanicbiome.esm",
+    "name": "zyp_snowyvolcanicbiome.esm",
+    "modId": "Snowy Volcanic Biome-15000-1-1-0-1759288594",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bettergifts.esm",
+    "name": "bettergifts.esm",
+    "modId": "Better Gifts-5841-1-0-1698104756",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uniquepoinames.esm",
+    "name": "uniquepoinames.esm",
+    "modId": "uniquePOInames-13041-1-0-1775671347",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "grindterrappg.esm",
+    "name": "grindterrappg.esm",
+    "modId": "GRiNDTerraPPG-13035-6-25-1775702322",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "cooldownuniquepatch.esm",
+    "name": "cooldownuniquepatch.esm",
+    "modId": "POI Cooldown patch-13041-1-0-1776415730",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "winds of gagarin.esm",
+    "name": "winds of gagarin.esm",
+    "modId": "WOG-12994-1-0-1737042746",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rrlg - rabbit's real lights gagarin.esm",
+    "name": "rrlg - rabbit's real lights gagarin.esm",
+    "modId": "RRLG - Rabbit's Real Lights Gagarin-11076-1-0-1-1725198289",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "atmosphericaudio.esm",
+    "name": "atmosphericaudio.esm",
+    "modId": "AtmosphericAudio-16239-1-07-1777941653",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "arx-15_thp_weaponoverhaul_patch.esm",
+    "name": "arx-15_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "betterboardingencounters.esm",
+    "name": "betterboardingencounters.esm",
+    "modId": "Better Boarding Encounters (BBE)-13964-1-0-5-1749220406",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "insurgencysandstorm_auga3.esm",
+    "name": "insurgencysandstorm_auga3.esm",
+    "modId": "Insurgency Sandstorm AUG A3-15767-1-0-6-1776237202",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "auga3_thp_weaponoverhaul_patch.esm",
+    "name": "auga3_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_sandydesert01.esm",
+    "name": "zyp_sandydesert01.esm",
+    "modId": "Real Sandy Deserts-14963-1-0-0-1758909883",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ws_variablecontrabandprices.esm",
+    "name": "ws_variablecontrabandprices.esm",
+    "modId": "Variable Contraband Prices - Redux-12205-1-15-1734330788",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "leavenowitnesses.esm",
+    "name": "leavenowitnesses.esm",
+    "modId": "Leave No Witnesses-12000-1-0-0-1728679315",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_breakingthebankaskonce.esm",
+    "name": "aurie_breakingthebankaskonce.esm",
+    "modId": "Breaking the Bank - Ask Once-8157-1-1-1749316925",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_terranarmadadelayed.esm",
+    "name": "aurie_terranarmadadelayed.esm",
+    "modId": "Terran Armada Delayed by Player Level-16373-1-1-1775682373",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_lodgelivelygarden.esm",
+    "name": "sp2_lodgelivelygarden.esm",
+    "modId": "Livelier Lodge Indoor Garden-12863-1-0-0-1735618436",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mastmast_ldish.esm",
+    "name": "mastmast_ldish.esm",
+    "modId": "MASTmast FOMOD Installer-10012-v0-2-1719014367",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_thegangsallhereterranarmada.esm",
+    "name": "aurie_thegangsallhereterranarmada.esm",
+    "modId": "The Gang's All Here - Terran Armada-7469-4-2-1776534109",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_sarahmorgandialogueenhanced.esm",
+    "name": "sp2_sarahmorgandialogueenhanced.esm",
+    "modId": "Sarah Morgan Dialogue Enhanced-12381-1-1-0-1736745871",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_andrejadialogueenhanced.esm",
+    "name": "sp2_andrejadialogueenhanced.esm",
+    "modId": "Andreja Dialogue Enhanced-13523-1-0-0-1744658385",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_upgradedcompanionsannounce.esm",
+    "name": "aurie_upgradedcompanionsannounce.esm",
+    "modId": "Upgraded Companions - Announce Restored-12030-1-3-1750349271",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_upgradedcompanionsshatteredspace.esm",
+    "name": "aurie_upgradedcompanionsshatteredspace.esm",
+    "modId": "Upgraded Companions - Shattered Space-12030-1-3-1750349218",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "resourcedescriptions.esm",
+    "name": "resourcedescriptions.esm",
+    "modId": "Resource Descriptions-12991-1-1-1737487209",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "betterenvresistance.esm",
+    "name": "betterenvresistance.esm",
+    "modId": "Environmental Resistance Improved 15345 1.1 2026-08-09T06-10Z AHEeGDP4w",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "polyamory.esm",
+    "name": "polyamory.esm",
+    "modId": "Polyamory - main-10687-1-0-1721741917",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aurie_upgradedcompanionsterranarmada.esm",
+    "name": "aurie_upgradedcompanionsterranarmada.esm",
+    "modId": "Upgraded Companions - Terran Armada-12030-1-5-1777932044",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vivs_furnishyourfleet.esm",
+    "name": "vivs_furnishyourfleet.esm",
+    "modId": "vivs_FurnishYourFleet.zip-12202-1-71-1738287664",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "justcreaturesgterra.esm",
+    "name": "justcreaturesgterra.esm",
+    "modId": "JustCreatures-9920-5-5-1775603729.1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxarx.esm",
+    "name": "bbxarx.esm",
+    "modId": "BB x ARX 14993 1.0 2026-08-14T06-52Z AHEeGDPt6",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_hyperpadded.esm",
+    "name": "kine_spacesuit_hyperpadded.esm",
+    "modId": "kine's Hyperpadded Skin Pack-16342-1-000-1776182739",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "simpleimmersivelooting.esm",
+    "name": "simpleimmersivelooting.esm",
+    "modId": "Simple Immersive Looting-12677-1-0-1733685604",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bedlam.esm",
+    "name": "bedlam.esm",
+    "modId": "Bedlam-10717-2-0-0-1737601151",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "better blocking.esm",
+    "name": "better blocking.esm",
+    "modId": "Better Blocking-4734-1-01-1699470383",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bedlamclutterpatch.esm",
+    "name": "bedlamclutterpatch.esm",
+    "modId": "Bedlam Clutter Patch 17802 1.0 2026-07-28T05-07Z vPWlJVXhI",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "better spaceship interaction distance.esm",
+    "name": "better spaceship interaction distance.esm",
+    "modId": "Better Spaceship Interaction Distance-12641-1-2-0-1775072791",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "better_outpost_radius.esm",
+    "name": "better_outpost_radius.esm",
+    "modId": "Better_Outpost_Radius-11497-1-0-1725990144",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "blep_farm.esm",
+    "name": "blep_farm.esm",
+    "modId": "Blep_farm-12654-1-0-1733321746",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_powerassistarmor.esm",
+    "name": "kine_spacesuit_powerassistarmor.esm",
+    "modId": "kine's Power Assist Skin Pack-16342-1-000-1776449202",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bettershippartsnaps.esm",
+    "name": "bettershippartsnaps.esm",
+    "modId": "Better Ship Part Snaps-5698-1-0-0-1719024808",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "remove auto aim.esm",
+    "name": "remove auto aim.esm",
+    "modId": "Remove Auto Aim-14096-1-1-1-1760294003",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vehiclehazardprotection.esm",
+    "name": "vehiclehazardprotection.esm",
+    "modId": "Vehicle Hazard Protection-13007-0-95-1737546985",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "factionsgiveskillpoints.esm",
+    "name": "factionsgiveskillpoints.esm",
+    "modId": "Faction Quests Give Skill Points-14058-1-2-1750165489",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "infititeuniverses.esm",
+    "name": "infititeuniverses.esm",
+    "modId": "Infinite Universes-9545-1-0-1717892908",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bookshelfdisplaysenhanced.esm",
+    "name": "bookshelfdisplaysenhanced.esm",
+    "modId": "Bookshelf Displays Enhanced-10732-1-4-1724577908",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "enhancecompanions.esm",
+    "name": "enhancecompanions.esm",
+    "modId": "Enhance Companions V1.1-13236-1-1-1739885562",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hjalmereaquariums.esm",
+    "name": "hjalmereaquariums.esm",
+    "modId": "Hjalmere's Aquariums-10877-2-0-0-1777737334",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_craftableprimersanddiodes.esm",
+    "name": "sp2_craftableprimersanddiodes.esm",
+    "modId": "Craftable Primers And Diodes-13221-1-0-0-1739303193",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "commandnpcs.esm",
+    "name": "commandnpcs.esm",
+    "modId": "Command NPCs - Followers and allies-10533-1-4-1740362624",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "completeweatheroverhaul_shatteredspace.esm",
+    "name": "completeweatheroverhaul_shatteredspace.esm",
+    "modId": "Complete Weather Overhaul - Shattered Space-14644-1-1-1756992869",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "completeweatheroverhaul_narainaddon.esm",
+    "name": "completeweatheroverhaul_narainaddon.esm",
+    "modId": "Rainy New Atlantis addon-14644-1-0-1775807770",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "craftableprimersnwefpatch.esm",
+    "name": "craftableprimersnwefpatch.esm",
+    "modId": "Craftable Primers NWEF Ammo Table Patch",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "crewskilloverhaul.esm",
+    "name": "crewskilloverhaul.esm",
+    "modId": "Crew Skill Overhaul-5625-1-0-5-1698018686",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "customoutfits.esm",
+    "name": "customoutfits.esm",
+    "modId": "Custom Outfits (19)-15002-1-1777211448",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "satou_crimson_van01.esm",
+    "name": "satou_crimson_van01.esm",
+    "modId": "Van Update-11057-1-1-1724533692",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_dazrahomefurnished.esm",
+    "name": "dwn_dazrahomefurnished.esm",
+    "modId": "Var'uun'kai - Dazra - Furnished Player Home-11888-1-0-1728168558",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zw_aio_laredo_carbon.esm",
+    "name": "zw_aio_laredo_carbon.esm",
+    "modId": "Laredo Carbon - Craftable Skins-12060-1-0-0-1728878480",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "morevisualizeddocking.esm",
+    "name": "morevisualizeddocking.esm",
+    "modId": "More Visualized Docking-4679-1-3-1698347503",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_factionrequisitionkiosks.esm",
+    "name": "sp2_factionrequisitionkiosks.esm",
+    "modId": "Faction Requisition Kiosks-9012-2-0-0-1727676540",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tnnamingoverride.esm",
+    "name": "tnnamingoverride.esm",
+    "modId": "TN's Naming Convention-17197-1-1779548034",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "daylengthmessage.esm",
+    "name": "daylengthmessage.esm",
+    "modId": "DayLengthMessage 2 0 4-15286-2-0-4-1776338473",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dead body collision.esm",
+    "name": "dead body collision.esm",
+    "modId": "Dead Body Collision-5541-1-0-1697731551",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "denseasteroidfields.esm",
+    "name": "denseasteroidfields.esm",
+    "modId": "Increased Asteroid Field Density-10480-1-2-1725670867",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rev-8-pro_nomusic.esm",
+    "name": "rev-8-pro_nomusic.esm",
+    "modId": "REV-8-Pro-NM-11119-1-2-1726387053",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dk_believable_crime_report_radius.esm",
+    "name": "dk_believable_crime_report_radius.esm",
+    "modId": "Main Download-13249-1-0-1739751385",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "marikadeputy.esm",
+    "name": "marikadeputy.esm",
+    "modId": "Marika Replacer Loose Files",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "du_overtime.esm",
+    "name": "du_overtime.esm",
+    "modId": "Dark Universe Overtime-13175-1-1-3-1755701012",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyj_screensaver.esm",
+    "name": "zyj_screensaver.esm",
+    "modId": "Screensaver for Outpost Monitors-14362-1-0-1-1779699284",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ie_wildlifescarcity_by_bosdragon.esm",
+    "name": "ie_wildlifescarcity_by_bosdragon.esm",
+    "modId": "IE - Wildlife Scarcity-11742-1-2-1727840378",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "duo_focus.esm",
+    "name": "duo_focus.esm",
+    "modId": "DUO - Focus-14594-1-0-0-1755691653",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scopeswithoutoverlays_holdbreath.esm",
+    "name": "scopeswithoutoverlays_holdbreath.esm",
+    "modId": "Scopes Without Overlays-15828-1-0-7-1776065887",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_crimsonfleetranks.esm",
+    "name": "dwn_crimsonfleetranks.esm",
+    "modId": "Crimson Fleet Ranks-14290-1-0-0-1751550157",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kz_aos.esm",
+    "name": "kz_aos.esm",
+    "modId": "KZ Aggregation of Scraps-11471-1-5-1-1757444179",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "morelore_mantislegacy.esm",
+    "name": "morelore_mantislegacy.esm",
+    "modId": "More Lore - Legacy of the Mantis-14473-1-1-0-1756540747",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kz_mantis.esm",
+    "name": "kz_mantis.esm",
+    "modId": "KZ Mantis 2.0 8814 2.5 2026-07-04T22-48Z xzTDtbbxT",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_decorativepack.esm",
+    "name": "dwn_decorativepack.esm",
+    "modId": "Nem's Deco Pack-11750-1-8-1-1755341289",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "massacre at kreet.esm",
+    "name": "massacre at kreet.esm",
+    "modId": "Massacre at Kreet v1.1-9744-1-1-1718461587",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "markedlandmarkbooks.esm",
+    "name": "markedlandmarkbooks.esm",
+    "modId": "Marked Landmark Books-7936-1-0-0-1704026475",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "quiet_and_healthy_crew.esm",
+    "name": "quiet_and_healthy_crew.esm",
+    "modId": "Quiet_And_Healthy_Crew-15704-1-1-1766230679",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "grafshabs-nova1x1.esm",
+    "name": "grafshabs-nova1x1.esm",
+    "modId": "Graf's Habs - Nova Galactic 1x1s-12511-2-4-1756667357",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "orbitaldefense_capitalships.esm",
+    "name": "orbitaldefense_capitalships.esm",
+    "modId": "Orbital Defense - Capital Ships-17343-1-1780414890",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "morelore_novagalacticstaryard.esm",
+    "name": "morelore_novagalacticstaryard.esm",
+    "modId": "More Lore - Nova Galactic Staryard (Loose)-15547-1-0-0-1764731588",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rrl objects - rabbit's real lights landing pads.esm",
+    "name": "rrl objects - rabbit's real lights landing pads.esm",
+    "modId": "RRL OBJECTS - Rabbit's Real Lights Landing Pads-11541-1-0-1726255260",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zal_mantislair-kz_mantis2.esm",
+    "name": "zal_mantislair-kz_mantis2.esm",
+    "modId": "Zal MantisLair KZ Mantis2 13783 1 2026-08-23T23-34Z zBaYm0Tbz",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_outposthabsexpanded.esm",
+    "name": "dwn_outposthabsexpanded.esm",
+    "modId": "Outpost Habs Expanded-10998-1-8-1726695667",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "outpostmissionboards.esm",
+    "name": "outpostmissionboards.esm",
+    "modId": "Outpost Mission Boards-6695-2-1-1718423840",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_outposthabsexpanded_colors.esm",
+    "name": "dwn_outposthabsexpanded_colors.esm",
+    "modId": "Outpost Habs Expanded - Color Variations-10998-1-8a-1728656850",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "placeablecargohold.esm",
+    "name": "placeablecargohold.esm",
+    "modId": "Placeable Cargo Holds-14910-1-2-1758331943",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "projectrework-pluto.esm",
+    "name": "projectrework-pluto.esm",
+    "modId": "Project Rework - Pluto-17209-1-0-8-1780482335",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eaa_tafightorflight.esm",
+    "name": "eaa_tafightorflight.esm",
+    "modId": "EAA_TAFightOrFlight 14457 1.6a 2026-09-02T00-07Z gn9b52Y2T",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "el jefe combat ai ss.esm",
+    "name": "el jefe combat ai ss.esm",
+    "modId": "El Jefe Combat AI-13194-1-7-1766839925.1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "morepiercings.esm",
+    "name": "morepiercings.esm",
+    "modId": "More Piercings-8559-1-0-2-1750172712",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "el jefe combat ai ta.esm",
+    "name": "el jefe combat ai ta.esm",
+    "modId": "El Jefe Combat AI-13194-1-7-1766839925.1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "el_jefe_combat_ai_stealthpatch.esm",
+    "name": "el_jefe_combat_ai_stealthpatch.esm",
+    "modId": "El Jefe Combat AI-13194-1-7-1766839925.1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "eli_surveyslates.esm",
+    "name": "eli_surveyslates.esm",
+    "modId": "Renamed Survey Data Slates 2.0.0-6802-2-0-0-1718022561",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "encounters_boarding_myship.esm",
+    "name": "encounters_boarding_myship.esm",
+    "modId": "Enemies Boarding My Ship-13999-V1-3-1750771975",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "energy weapon beam colors - shattered space.esm",
+    "name": "energy weapon beam colors - shattered space.esm",
+    "modId": "Energy Weapon Beam Colors - Shattered Space 17672 1 2026-07-24T05-23Z 34Q1HFGrt",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "energy weapon beam colors terran armada.esm",
+    "name": "energy weapon beam colors terran armada.esm",
+    "modId": "Energy Weapon Beam Colors Terran Armada 17672 1 2026-07-21T05-27Z avXC0s8lu",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "energy weapon beam colors.esm",
+    "name": "energy weapon beam colors.esm",
+    "modId": "Energy Weapon Beam Colors 17672 1.1 2026-07-24T05-23Z kRcAwxoXg",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "exittolandingbay.esm",
+    "name": "exittolandingbay.esm",
+    "modId": "Exit To Landing Bay-16959-1-4-1778874226",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shipbuildmiscitems.esm",
+    "name": "shipbuildmiscitems.esm",
+    "modId": "Ship Builder Hab Items Cargo Transfer Fix-7036-1-1-1700768993",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "faster waiting and sleeping.esm",
+    "name": "faster waiting and sleeping.esm",
+    "modId": "Faster Waiting and Sleeping-9664-1-1718212567",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thetrackersalliancedelayed.esm",
+    "name": "thetrackersalliancedelayed.esm",
+    "modId": "The Trackers Alliance Delayed Start-11533-1-2-0-1728617114",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "flashy_tatv.esm",
+    "name": "flashy_tatv.esm",
+    "modId": "Flashy(JoeR) - TATV Loose File Version-16961-1-05-1778106779",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "insurgencysandstorm_akm.esm",
+    "name": "insurgencysandstorm_akm.esm",
+    "modId": "AKM-15610-1-0-3-1776152723",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "akm_thp_weaponoverhaul_patch.esm",
+    "name": "akm_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_armada.esm",
+    "name": "kine_spacesuit_armada.esm",
+    "modId": "kine's Armada Skin Pack-16342-1-100-1776007447",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "titanfall2weaponpack.esm",
+    "name": "titanfall2weaponpack.esm",
+    "modId": "Titanfall 2 Weapon Pack-15319-1-0-7-1776146384",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scopeswithoutoverlays.esm",
+    "name": "scopeswithoutoverlays.esm",
+    "modId": "Scopes Without Overlays-15828-1-0-7-1776065887",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "functionalreflexsights.esm",
+    "name": "functionalreflexsights.esm",
+    "modId": "Functional Reflex Sights-15799-1-0-1-1767675811",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "functionalreflexsights_shatteredspace.esm",
+    "name": "functionalreflexsights_shatteredspace.esm",
+    "modId": "Functional Reflex Sights - Shattered Space-15799-1-0-1-1767676081",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "functionalreflexsights_terranarmada.esm",
+    "name": "functionalreflexsights_terranarmada.esm",
+    "modId": "Functional Reflex Sights - Terran Armada-15799-1-0-1776066528",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "realvenusatmosphere.esm",
+    "name": "realvenusatmosphere.esm",
+    "modId": "RealVenusAtmosphereSM-16473-v2-0-1778705210",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "g231_xenomaster.esm",
+    "name": "g231_xenomaster.esm",
+    "modId": "Xeno Master - 1.2.77 Release-10380-1-2-77-1775632678",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "g231_xenomaster_dlcsupport.esm",
+    "name": "g231_xenomaster_dlcsupport.esm",
+    "modId": "DLC Support addon for Xeno Master - v1.2-11822-1-2-1739755299",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gallionxrefinedrm.esm",
+    "name": "gallionxrefinedrm.esm",
+    "modId": "GallionxRefinedRM 17703 1.0 2026-07-16T07-16Z RbjHpzcbA",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_ecliptic.esm",
+    "name": "kine_spacesuit_ecliptic.esm",
+    "modId": "kine's Ecliptic Skin Pack-15962-v1-000-1774905095",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "npcs use items.esm",
+    "name": "npcs use items.esm",
+    "modId": "NPCs Use Items-16512-1-0-3-1777192542",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "satou_warthog01.esm",
+    "name": "satou_warthog01.esm",
+    "modId": "Warthog Update-11065-1-1-1724533794",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ganymede.esm",
+    "name": "ganymede.esm",
+    "modId": "Ganymede-9652-1-0-2-1724922664",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ganymede - incursions.esm",
+    "name": "ganymede - incursions.esm",
+    "modId": "Ganymede - Incursions-16587-1-1-1776399647",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_suitup_re.esm",
+    "name": "rbt_suitup_re.esm",
+    "modId": "Suit Up-12102-2-2-1776917901",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gb_shipbuilderconfigurator_free.esm",
+    "name": "gb_shipbuilderconfigurator_free.esm",
+    "modId": "Ship Builder Configurator-11077-2-1-1-1758040830",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gb_sbcx_shatteredspace.esm",
+    "name": "gb_sbcx_shatteredspace.esm",
+    "modId": "SBC Extension - Shattered Space-11077-1-1-1-1758219585",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "qualitytiersfix_ta.esm",
+    "name": "qualitytiersfix_ta.esm",
+    "modId": "Quality Tiers Fix - TA Only-16524-1-0-1777614875",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "goldilocks.esm",
+    "name": "goldilocks.esm",
+    "modId": "Goldilocks V3.0-16696-3-0-1779197766",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "grafsoutpostbiodome.esm",
+    "name": "grafsoutpostbiodome.esm",
+    "modId": "Graf's Outpost BioDome-16162-1-1-1773873570",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "grindterralocations.esm",
+    "name": "grindterralocations.esm",
+    "modId": "GrindTerralocations-11530-5-1775741054",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "groundedenemiesxjustcreatures.esm",
+    "name": "groundedenemiesxjustcreatures.esm",
+    "modId": "Grounded Enemies x Just Creatures-14993-1-0-1780635748",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "gun kata.esm",
+    "name": "gun kata.esm",
+    "modId": "Gun Kata 17743 1 2026-07-21T11-35Z Siqx4gHzQ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxgunkatapatch.esm",
+    "name": "nskxgunkatapatch.esm",
+    "modId": "NovaSkills x Gun Kata Patch 16422 1.0 2026-07-23T07-49Z KeusfolXx",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hatch-22.esm",
+    "name": "hatch-22.esm",
+    "modId": "Hatch-22 17077 1.4.1 2026-06-30T18-24Z eZwVkccsf",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hatch-22 sfbgs050 patch.esm",
+    "name": "hatch-22 sfbgs050 patch.esm",
+    "modId": "Hatch 22 SFBGS050 Patch 17077 1.3.0 2026-06-15T17-02Z RbjHpzzwz",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "heightracepatch.esm",
+    "name": "heightracepatch.esm",
+    "modId": "HeightRacePatch-17325-1-1-1780680066",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ho_crewslots.esm",
+    "name": "ho_crewslots.esm",
+    "modId": "More Crew Slots-12497-1-1-1732452292",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "hshe.esm",
+    "name": "hshe.esm",
+    "modId": "Hopetech Ship Hab Expansion-14328-3-0-0-1763047520",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxdisciplinespatch.esm",
+    "name": "nskxdisciplinespatch.esm",
+    "modId": "NSKxDisciplinesPatch-16422-1-0-1775979159",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "human damage x5.esm",
+    "name": "human damage x5.esm",
+    "modId": "Human Damage-12603-1-4-1742571303",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "immersive speech.esm",
+    "name": "immersive speech.esm",
+    "modId": "Immersive Speech-450-1-04-1699381628",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starluminous - shattered space.esm",
+    "name": "starluminous - shattered space.esm",
+    "modId": "StarLuminous - Shattered Space-10466-SS-1-0-1731813523",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "immersiveshellcasings.esm",
+    "name": "immersiveshellcasings.esm",
+    "modId": "Immersive Shell Casings Low ESM-914-1-3-1701451059",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "immersivestarcolours.esm",
+    "name": "immersivestarcolours.esm",
+    "modId": "Immersive Star Colours-14274-1-1-0-1754744188",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedfollowerbehavior.esm",
+    "name": "improvedfollowerbehavior.esm",
+    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedshippathing.esm",
+    "name": "improvedshippathing.esm",
+    "modId": "ImprovedShipPathing-14490-2-1776529491",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "industrialengineering.esm",
+    "name": "industrialengineering.esm",
+    "modId": "Industrial Engineering 17534 1.0 2026-06-24T16-19Z AHEeGDDU4",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "insurgencysandstorm_alphaak.esm",
+    "name": "insurgencysandstorm_alphaak.esm",
+    "modId": "Alpha AK-15641-1-0-3-1776168205",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxalphaak.esm",
+    "name": "bbxalphaak.esm",
+    "modId": "Balanced Ballistics x AlphaAK 14993 1.0 2026-07-30T05-33Z RbjHpzc7b",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "alphaak_thp_weaponoverhaul_patch.esm",
+    "name": "alphaak_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "smartinventory-terranarmada-patch.esm",
+    "name": "smartinventory-terranarmada-patch.esm",
+    "modId": "Terran Armada Patch-13677-1-1775932750",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ship power fix.esm",
+    "name": "ship power fix.esm",
+    "modId": "Ship Power Allocation Fix-6707-0-1-2-1699733717",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "krissvectorgen2.esm",
+    "name": "krissvectorgen2.esm",
+    "modId": "Kriss Vector Gen 2 - Vanilla-15738-1-1-2-1775745344",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "jemisonclearwater.esm",
+    "name": "jemisonclearwater.esm",
+    "modId": "JemisonClearWater-9670-1-0-1718224012",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "playerhealth5.esm",
+    "name": "playerhealth5.esm",
+    "modId": "Player Health 5-16957-1-0-1780549858",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kbar32_thp_weaponoverhaul_patch.esm",
+    "name": "kbar32_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_groundcrew.esm",
+    "name": "kine_spacesuit_groundcrew.esm",
+    "modId": "kine's Ground Crew Skin Pack-15917-1-111-1777912315",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_pirate.esm",
+    "name": "kine_spacesuit_pirate.esm",
+    "modId": "kine's Pirate Skin Pack-15964-1-000-1775346158",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_ryujinstealth.esm",
+    "name": "kine_spacesuit_ryujinstealth.esm",
+    "modId": "kine's Ryujin Stealth Skin Pack-16342-1-000-1775618290",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_uctactical.esm",
+    "name": "kine_spacesuit_uctactical.esm",
+    "modId": "kine's Tactical Agility Skin Pack-16342-1-000-1776962115",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kine_spacesuit_varuun.esm",
+    "name": "kine_spacesuit_varuun.esm",
+    "modId": "kine's Va'ruun Skin Pack -w DLC Support-15963-1-000-1775236283",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "krissvectorgen2_thp_weaponoverhaul_patch.esm",
+    "name": "krissvectorgen2_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kriswewereoncehere.esm",
+    "name": "kriswewereoncehere.esm",
+    "modId": "We Were Once Here-9878-1-2-1726879195",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kz_ucd.esm",
+    "name": "kz_ucd.esm",
+    "modId": "KZ United Colonies Depository-16200-1-0-4-1776599106",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "patch-spe-tnsaio.esm",
+    "name": "patch-spe-tnsaio.esm",
+    "modId": "Patch SPE x TNsAIO-14610-1-0-0-1755864190",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "patch-spe-sbc.esm",
+    "name": "patch-spe-sbc.esm",
+    "modId": "Patch SBExSBC-12335-1-3-0-1744385964",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "kz_vfa.esm",
+    "name": "kz_vfa.esm",
+    "modId": "KZ Venatorial Frontiers Armory 15844 1.1 2026-07-08T12-05Z 56289lisk",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "laser armament systems.esm",
+    "name": "laser armament systems.esm",
+    "modId": "Laser Armament Systems 17759 1 2026-07-24T20-08Z i2dzCnqwq",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxlaspatch.esm",
+    "name": "nskxlaspatch.esm",
+    "modId": "NovaSkills x L.A.S. Patch 16422 1.0 2026-07-25T03-49Z OSHy3QAlq",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "seti_shiplights_by_bosdragon.esm",
+    "name": "seti_shiplights_by_bosdragon.esm",
+    "modId": "SETI v0.3.1-11480-0-3-1-1728673629",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "usableshipramps.esm",
+    "name": "usableshipramps.esm",
+    "modId": "Simple Usable Ship Ramps-13466-1-1753122677",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "spacenebulae.esm",
+    "name": "spacenebulae.esm",
+    "modId": "Space Nebulae 1 2-15512-1-2-1778320047",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shipvendorframework.esm",
+    "name": "shipvendorframework.esm",
+    "modId": "Ship Vendor Framework-10057-1-10-0-1778277983",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_communityspaceshipexpansionshipvendorframework.esm",
+    "name": "dwn_communityspaceshipexpansionshipvendorframework.esm",
+    "modId": "Community Spaceship Expansion - Buyable Ships 14174 1.0.1 2026-07-25T10-07Z HqFZQYE7g",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "svf-shatteredspace-patch.esm",
+    "name": "svf-shatteredspace-patch.esm",
+    "modId": "Ship Vendor Framework-10057-1-10-0-1778277983",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_costofliving.esm",
+    "name": "rbt_costofliving.esm",
+    "modId": "Cost Of Living-12136-1-0-1-1741511405",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "misc2resources.esm",
+    "name": "misc2resources.esm",
+    "modId": "Misc2Resources-5611-1-2-1718046090",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mk17.esm",
+    "name": "mk17.esm",
+    "modId": "FN SCAR - MK17-13917-1-0-8-1776085938",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "samcowboy.esm",
+    "name": "samcowboy.esm",
+    "modId": "Sam Visual Replacer Loose Files-17385-1-1780721252",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_mirroredstarfieldfixed.esm",
+    "name": "sp2_mirroredstarfieldfixed.esm",
+    "modId": "Mirrored Starfield Fixed-10616-1-0-0-1721351100",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mk17_thp_weaponoverhaul_patch.esm",
+    "name": "mk17_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shipcolorize.esm",
+    "name": "shipcolorize.esm",
+    "modId": "ShipColorize Redux -  Loose Files-17317-1-1-1780574022",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "more survey missions alt.esm",
+    "name": "more survey missions alt.esm",
+    "modId": "MoreSurveyMissionsAlt-15768-1-1767022452",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "moreimmersivelandingstakeoffs.esm",
+    "name": "moreimmersivelandingstakeoffs.esm",
+    "modId": "More Immersive Landings And Takeoffs-2835-1-4-1-1772883619",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mk17_functionalreflexsights_scopeswithoutoverlays.esm",
+    "name": "mk17_functionalreflexsights_scopeswithoutoverlays.esm",
+    "modId": "FN SCAR - MK17-13917-1-0-8-1776085938",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "insurgencysandstorm_auga3_functionalreflexsights_scopeswithoutoverlays.esm",
+    "name": "insurgencysandstorm_auga3_functionalreflexsights_scopeswithoutoverlays.esm",
+    "modId": "Insurgency Sandstorm AUG A3-15767-1-0-6-1776237202",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "insurgencysandstorm_alphaak_functionalreflexsights_scopeswithoutoverlays.esm",
+    "name": "insurgencysandstorm_alphaak_functionalreflexsights_scopeswithoutoverlays.esm",
+    "modId": "Alpha AK-15641-1-0-3-1776168205",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scopeswithoutoverlays_terranarmada.esm",
+    "name": "scopeswithoutoverlays_terranarmada.esm",
+    "modId": "Scopes Without Overlays-15828-1-0-7-1776065887",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "insurgencysandstorm_akm_functionalreflexsights_scopeswithoutoverlays.esm",
+    "name": "insurgencysandstorm_akm_functionalreflexsights_scopeswithoutoverlays.esm",
+    "modId": "AKM-15610-1-0-3-1776152723",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "arx-15_functionalreflexsights_scopeswithoutoverlays.esm",
+    "name": "arx-15_functionalreflexsights_scopeswithoutoverlays.esm",
+    "modId": "ARX-15 Patch-15828-1-0-1779822785",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nasalandmark.esm",
+    "name": "nasalandmark.esm",
+    "modId": "New Landmark Quests-5824-1-35-1698113071",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neon_entertainers_z.esm",
+    "name": "neon_entertainers_z.esm",
+    "modId": "Neon Entertainer's Outfit (VBB)-7012-1-3-1716306048",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfield_disciples_overhaul_z.esm",
+    "name": "starfield_disciples_overhaul_z.esm",
+    "modId": "Starfield Disciples Overhaul-14412-1-01-1754261834",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "neonlmr_neg90deg.esm",
+    "name": "neonlmr_neg90deg.esm",
+    "modId": "Neon Landing Marker Realignment 17766 2.1 2026-07-26T04-01Z tmbST8RNU",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zw_aio_combatech_dark.esm",
+    "name": "zw_aio_combatech_dark.esm",
+    "modId": "Dark CombaTech - Craftable Skins-11874-1-0-0-1728128205",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nk_builderlite.esm",
+    "name": "nk_builderlite.esm",
+    "modId": "nk_builderLite.zip-14098-1-0-1756171550",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxsmomentumpatch.esm",
+    "name": "nskxsmomentumpatch.esm",
+    "modId": "NovaSkills x Shotgunner's Momentum Patch 16422 1.0 2026-07-23T07-48Z ID3oOHVu6",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "noequippedarmorchancetodrop.esm",
+    "name": "noequippedarmorchancetodrop.esm",
+    "modId": "No Equipped Armor Chance to Drop-16455-1-0-1776024435",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "non-lethal framework.esm",
+    "name": "non-lethal framework.esm",
+    "modId": "Non-Lethal Framework-7812-3-0-2-1736902773",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "handcuffs workbench patch.esm",
+    "name": "handcuffs workbench patch.esm",
+    "modId": "Non-Lethal Framework NWEF Patch-14993-1-0-1768417496",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "novagal_cockpitfixv1.esm",
+    "name": "novagal_cockpitfixv1.esm",
+    "modId": "Nova Galactic - Pilot Seat Fix 17801 1 2026-07-28T05-34Z 2frBl7dK2",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyec_enhanced_elevated_cabins.esm",
+    "name": "zyec_enhanced_elevated_cabins.esm",
+    "modId": "ZYEC ENHANCED Elevated Cabins-17213-1-2-1-1780088203",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "noxpkillsteal.esm",
+    "name": "noxpkillsteal.esm",
+    "modId": "No XP Kill Steal Fix-1018-2-0-0-1718863489",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "outpostshipbuilderunlocked.esm",
+    "name": "outpostshipbuilderunlocked.esm",
+    "modId": "Outpost Shipbuilder Unlocked-5667-2-1-1776044896",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "npcstakeenvdamage.esm",
+    "name": "npcstakeenvdamage.esm",
+    "modId": "NPCs Take Environmental Damage-4334-1-2-1701681656",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxindustrialengineeringpatch.esm",
+    "name": "nskxindustrialengineeringpatch.esm",
+    "modId": "NovaSkills x Industrial Engineering Patch 16422 1.0 2026-06-24T16-27Z lu7NrMMCK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_realo2.esm",
+    "name": "rbt_realo2.esm",
+    "modId": "Real O2-12303-1-91-1750706740",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxro2patch.esm",
+    "name": "nskxro2patch.esm",
+    "modId": "NSKxRO2Patch-16422-1-0-1775979182",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vendor1dayrestock.esm",
+    "name": "vendor1dayrestock.esm",
+    "modId": "Vendor 1 Day Restock",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nwef_ammotable.esm",
+    "name": "nwef_ammotable.esm",
+    "modId": "NWEF AmmoTable-16962-1-0-1777953853",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "obstaclecollisiondamage.esm",
+    "name": "obstaclecollisiondamage.esm",
+    "modId": "Obstacle Collision - Easy-12940-1-0-1736446002",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "overtime improved rewards.esm",
+    "name": "overtime improved rewards.esm",
+    "modId": "Overtime Improved Rewards-16643-1-1776798200",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "titanfall2weaponpack_thp_weaponoverhaul_patch.esm",
+    "name": "titanfall2weaponpack_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxtitanfall.esm",
+    "name": "bbxtitanfall.esm",
+    "modId": "BB x Titanfall 2-15808-1-0-1767855086",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "paslowmo.esm",
+    "name": "paslowmo.esm",
+    "modId": "Smooth Ship Power SlowMo No Blur-14795-1-1-1-1757149538",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "realtitan.esm",
+    "name": "realtitan.esm",
+    "modId": "Real Titan-7476-1-0-1701821674",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "realtitanatmosphere.esm",
+    "name": "realtitanatmosphere.esm",
+    "modId": "RealTitanAtmosphereSM-16548-2-0-1778705477",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "peakperformance_re.esm",
+    "name": "peakperformance_re.esm",
+    "modId": "Peak Performance-12420-1-51-final-1766232203.1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ppgpopatch.esm",
+    "name": "ppgpopatch.esm",
+    "modId": "Peak Performance GPO Patch 14993 1.0 2026-08-17T22-10Z F5ipYCS13",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "poicooldownbattenswreckspatch.esm",
+    "name": "poicooldownbattenswreckspatch.esm",
+    "modId": "Battens Wrecks patch-9532-1-1738345464",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "slightly better rowland arms - npc routines patch.esm",
+    "name": "slightly better rowland arms - npc routines patch.esm",
+    "modId": "Slightly Better Rowland Arms - NPC Routines Patch 17914 1.0 2026-08-12T16-43Z XWUnshBmw",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "projectrework-akila.esm",
+    "name": "projectrework-akila.esm",
+    "modId": "a0_94_bf_a094bf18-b055-4818-9df1-584f3266afcb",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "pxc_ammohud.esm",
+    "name": "pxc_ammohud.esm",
+    "modId": "Ammo HUD-11352-3-0-3-1748251484",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "radmech.esm",
+    "name": "radmech.esm",
+    "modId": "Mech-8570-2-0-1-1737295581",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rampart17.esm",
+    "name": "rampart17.esm",
+    "modId": "Rampart-17 (Free Lanes Update)-15774-1-0-5-1776313660",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rampart17_thp_weaponoverhaul_patch.esm",
+    "name": "rampart17_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxrampart.esm",
+    "name": "bbxrampart.esm",
+    "modId": "Balanced Ballistics x Rampart 14993 1.0 2026-07-30T05-34Z Y9Cjid4AL",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rampart17_functionalreflexsights_scopeswithoutoverlays.esm",
+    "name": "rampart17_functionalreflexsights_scopeswithoutoverlays.esm",
+    "modId": "Rampart-17 Patch-15828-1-0-1779822823",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rosietannehill-anactualdoctor.esm",
+    "name": "rosietannehill-anactualdoctor.esm",
+    "modId": "Rosie Tannehill - An Actual Doctor - v2.3a-4242-2-3a-1723505504",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_gear.esm",
+    "name": "rbt_gear.esm",
+    "modId": "Starter 17723 3 2026-08-08T00-40Z HqFZQYEC3",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "real fuel workbench patch.esm",
+    "name": "real fuel workbench patch.esm",
+    "modId": "Real Fuel x NWEF-15839-1-0-1768366610",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_religion.esm",
+    "name": "rbt_religion.esm",
+    "modId": "Adherent 17687 2 2026-07-19T03-58Z 6MfXKu2qz",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_roverhaul.esm",
+    "name": "rbt_roverhaul.esm",
+    "modId": "ROVER-HAUL-14008-1-5-1776448931",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nwefxroverhaulpatch.esm",
+    "name": "nwefxroverhaulpatch.esm",
+    "modId": "Roverhaul x NWEF-15841-1-0-1768365979",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "smartinventory-roverhaul-patch.esm",
+    "name": "smartinventory-roverhaul-patch.esm",
+    "modId": "Roverhaul Patch-13677-2-1777500573",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_sfe_ta.esm",
+    "name": "rbt_sfe_ta.esm",
+    "modId": "Spacefaring Economy-12022-1-0-final-1758740491",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_skeletonkey.esm",
+    "name": "rbt_skeletonkey.esm",
+    "modId": "Skeleton Key-13127-1-5-1738649309",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_spacefaringeconomy.esm",
+    "name": "rbt_spacefaringeconomy.esm",
+    "modId": "Spacefaring Economy-12022-1-0-final-1758740491",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxsfepatch.esm",
+    "name": "nskxsfepatch.esm",
+    "modId": "NSKxSFEPatch-16422-1-0-1775979210",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "real o2 workbench patch.esm",
+    "name": "real o2 workbench patch.esm",
+    "modId": "Real O2 x NWEF 15840 1.1 2026-07-30T05-07Z eZwVkcudV",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "realisticboostpack.esm",
+    "name": "realisticboostpack.esm",
+    "modId": "Realistic Boostpack-14993-1-1-1776830737",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shiprammingdamage.esm",
+    "name": "shiprammingdamage.esm",
+    "modId": "Ramming - Medium-12940-1-0-1736446327",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_vascorecognizesmoreplayernames.esm",
+    "name": "sp2_vascorecognizesmoreplayernames.esm",
+    "modId": "Vasco Recognizes More Player Names-7093-2-3-0-1724370389",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "resilient outpost extractors.esm",
+    "name": "resilient outpost extractors.esm",
+    "modId": "Resilient Outpost Extractors-13598-0-2-1743965706",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "runningwithhands.esm",
+    "name": "runningwithhands.esm",
+    "modId": "RunningWithHands ESM 1.0-16234-1-0-1774412787",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scared of shooting.esm",
+    "name": "scared of shooting.esm",
+    "modId": "Scared of Shootings - NPCs react to shootings-5711-0-2-1-1698895747",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scopeswithoutoverlays_shatteredspace.esm",
+    "name": "scopeswithoutoverlays_shatteredspace.esm",
+    "modId": "Scopes Without Overlays-15828-1-0-7-1776065887",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mattells cockpits solitude series seti patch.esm",
+    "name": "mattells cockpits solitude series seti patch.esm",
+    "modId": "Mattell's Cockpits Solitude Series 12922 3.8 2026-07-11T23-21Z DY4cSq32u",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mattells crew series seti patch.esm",
+    "name": "mattells crew series seti patch.esm",
+    "modId": "Mattell's Cockpits and Bridges Crew Series-13217-3-41-1750184861",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vehiclerhyno2.esm",
+    "name": "vehiclerhyno2.esm",
+    "modId": "Hammer V Update 104-12773-1-04-1734791323",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shipexteriorcamera.esm",
+    "name": "shipexteriorcamera.esm",
+    "modId": "SECS - Ship Exterior Camera Separation-10986-1-0-1728254574",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "usableshipramps_rampcontrol.esm",
+    "name": "usableshipramps_rampcontrol.esm",
+    "modId": "Simple Usable Ship Ramps - Ramp Deployment Control-13466-2-1778924767",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shopkeeperschedulesdazra.esm",
+    "name": "shopkeeperschedulesdazra.esm",
+    "modId": "NPC Routines and Store Schedules Dazra-12140-2-0-1752169005",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "smartheal.esm",
+    "name": "smartheal.esm",
+    "modId": "Smart Heal-13979-1-0-0-1748696268",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_vibrantvolcanicbiome.esm",
+    "name": "zyp_vibrantvolcanicbiome.esm",
+    "modId": "Vibrant Volcanic Biomes-14931-1-1-0-1780802527",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "smartinventory-shatteredspace-patch.esm",
+    "name": "smartinventory-shatteredspace-patch.esm",
+    "modId": "Shattered Space Patch-13677-1-0-0-1749058398",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "smartinventory-variablecontrabandpricesredux-patch.esm",
+    "name": "smartinventory-variablecontrabandpricesredux-patch.esm",
+    "modId": "Variable Contraband Prices - Redux Patch-13677-1-0-0-1749058114",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sol - sensible outpost lighting.esm",
+    "name": "sol - sensible outpost lighting.esm",
+    "modId": "SOL - Base version-11452-1-0-1725683074",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_landingbaycargoaccess.esm",
+    "name": "sp2_landingbaycargoaccess.esm",
+    "modId": "Landing Bay Cargo Access-11972-1-1-0-1749929925",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_realisticsundisksize.esm",
+    "name": "sp2_realisticsundisksize.esm",
+    "modId": "Realistic Sun Disk Size-10619-1-0-0-1721352765",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sp2_simpleimmersivemusicplayers.esm",
+    "name": "sp2_simpleimmersivemusicplayers.esm",
+    "modId": "Simple Immersive Music Players-11729-1-0-1-1727412286",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "spaceships_use_private_channels.esm",
+    "name": "spaceships_use_private_channels.esm",
+    "modId": "Spaceships_Use_Private_Channels-15731-1-1-1766480054",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "specialist_crew_recruiting_beacon.esm",
+    "name": "specialist_crew_recruiting_beacon.esm",
+    "modId": "Specialist_Crew_Recruiting_Beacon-15371-1-2-1766490907",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "prisoner fix.esm",
+    "name": "prisoner fix.esm",
+    "modId": "Prisoner Fix 17684 1.1 2026-07-22T16-26Z 56289libZ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfieldrevised_playerspeed.esm",
+    "name": "starfieldrevised_playerspeed.esm",
+    "modId": "Player Speed Revised-10184-2-01-1725541484",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "stroudpremiumeditionbalanced.esm",
+    "name": "stroudpremiumeditionbalanced.esm",
+    "modId": "Stroud Premium Edition - Balanced-17316-2-5-3-v1-1-1780233957",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "theden_laststop - usfp patch.esm",
+    "name": "theden_laststop - usfp patch.esm",
+    "modId": "USFP Patch-17173-1-1779554469",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thp_weaponoverhaulss.esm",
+    "name": "thp_weaponoverhaulss.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "thp_weaponoverhaulta.esm",
+    "name": "thp_weaponoverhaulta.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "titanfall2weaponpack_functionalreflexsights_scopeswithoutoverlays patch.esm",
+    "name": "titanfall2weaponpack_functionalreflexsights_scopeswithoutoverlays patch.esm",
+    "modId": "Titanfall 2 Weapon Pack-15319-1-0-7-1776146384",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "tn cargo patch.esm",
+    "name": "tn cargo patch.esm",
+    "modId": "TN AiO Cargo Multiplier Patch-14993-1-0-1768467204",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "uc surplus expanded - immersive.esm",
+    "name": "uc surplus expanded - immersive.esm",
+    "modId": "UC Surplus Expanded - Immersive-7205-1-2-1702925839",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ucmo_ce_tweaks_visors.esm",
+    "name": "ucmo_ce_tweaks_visors.esm",
+    "modId": "UCMO - Complete Edition - FOMOD-12085-1-2-1731665780",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "useful brigs.esm",
+    "name": "useful brigs.esm",
+    "modId": "Useful Brigs-8139-5-0-1-1736918680",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "variouscrewextended.esm",
+    "name": "variouscrewextended.esm",
+    "modId": "VariousCrewExtended 9528 2.1 2026-06-27T02-09Z lu7NrMMIQ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vtiichpatch.esm",
+    "name": "vtiichpatch.esm",
+    "modId": "VTI ICH Patch-14947-1-0-1-1759348657",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "visiblechameleon.esm",
+    "name": "visiblechameleon.esm",
+    "modId": "Visible Chameleon-4153-3-1718439088",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vladimirwatcher.esm",
+    "name": "vladimirwatcher.esm",
+    "modId": "53_a6_7b_53a67bff-8e4b-4323-b663-a37c96bb4f44",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "weapondisplaysenhanced.esm",
+    "name": "weapondisplaysenhanced.esm",
+    "modId": "Weapon Displays Enhanced-8897-1-6-1724578451",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ws-betterscanner.esm",
+    "name": "ws-betterscanner.esm",
+    "modId": "Better Scanner-13377-1-0-1741254900",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "blep_farm_shatteredspace_patch.esm",
+    "name": "blep_farm_shatteredspace_patch.esm",
+    "modId": "Blep_farm_shatteredspace_patch-12655-1-0-1733324507",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxwscanner.esm",
+    "name": "nskxwscanner.esm",
+    "modId": "NovaSkills x Warrior's Better Scanner Patch-16422-1-0-1779338179",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "x2357factionweaponskinsconstellation.esm",
+    "name": "x2357factionweaponskinsconstellation.esm",
+    "modId": "X2357's Faction Weapon Skins - Constellation-14546-1-0-1755248628",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scopeswithoutoverlays_x2357factionweaponskinsconstellation patch.esm",
+    "name": "scopeswithoutoverlays_x2357factionweaponskinsconstellation patch.esm",
+    "modId": "Scopes Without Overlays-15828-1-0-7-1776065887",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "x2357primeweaponskinsaio.esm",
+    "name": "x2357primeweaponskinsaio.esm",
+    "modId": "X2357's Prime Weapon Skins - AIO-15801-1-0-1767673789",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "scopeswithoutoverlays_x2357primeweaponskinsaio patch.esm",
+    "name": "scopeswithoutoverlays_x2357primeweaponskinsaio patch.esm",
+    "modId": "Scopes Without Overlays-15828-1-0-7-1776065887",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "xeno master workbench patch.esm",
+    "name": "xeno master workbench patch.esm",
+    "modId": "Xeno Master NWEF Patch-14993-1-0-1768417412",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zw_aio_korekinetics_quantum.esm",
+    "name": "zw_aio_korekinetics_quantum.esm",
+    "modId": "Kore Kinetics Quantum - Craftable Skins-12280-1-1-0-1730192908",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyc_taugourmet_weather.esm",
+    "name": "zyc_taugourmet_weather.esm",
+    "modId": "ZYC TauGourmet Weather-17272-1-0-0-1779977769",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyj_decor_lights.esm",
+    "name": "zyj_decor_lights.esm",
+    "modId": "Buildable Lights - ZYJ_Decor_Lights-14342-1-3-1-1755075622",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyj_structures_darkhabs.esm",
+    "name": "zyj_structures_darkhabs.esm",
+    "modId": "ENHANCE Dark Habs-14431-1-0-0-1753261620",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_castlerocks.esm",
+    "name": "zyp_castlerocks.esm",
+    "modId": "Castle Rocks Mountains Biome-17304-1-1-0-1780241264",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_crevassefield.esm",
+    "name": "zyp_crevassefield.esm",
+    "modId": "ZYP Crevasse Field-17341-1-0-1-1780567267",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_frozenmountains_fog.esm",
+    "name": "zyp_frozenmountains_fog.esm",
+    "modId": "Real Frozen Mountains-14879-1-0-0-1757736128",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_lavafield.esm",
+    "name": "zyp_lavafield.esm",
+    "modId": "ZYP Lava Field-17426-1-0-0-1781068355",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_wildcoasts.esm",
+    "name": "zyp_wildcoasts.esm",
+    "modId": "ZYP Wild Coasts 17622 1.0.0 2026-07-02T16-25Z Y9CjidduD",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_volcanic_glacial_plateau.esm",
+    "name": "zyp_volcanic_glacial_plateau.esm",
+    "modId": "Volcanic Glacial Plateau (Loose Files)-17322-1-0-0-1780254793",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_volcanic_kreet.esm",
+    "name": "zyp_volcanic_kreet.esm",
+    "modId": "Volcanic Kreet-14833-1-2-1-1757567115",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_mossyplateau.esm",
+    "name": "zyp_mossyplateau.esm",
+    "modId": "Mossy Plateau-15022-1-0-0-1759573625",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ucquestfix.esm",
+    "name": "ucquestfix.esm",
+    "modId": "Quest Fixes 18029 1.1 2026-08-22T21-16Z HqFZQYEDJ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nimbleships_normalcruise.esm",
+    "name": "nimbleships_normalcruise.esm",
+    "modId": "Nimble Ships - Normal Cruise Speed-17133-1-12-1780590656",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aetherium.esm",
+    "name": "aetherium.esm",
+    "modId": "Aetherium 18063 1.11 2026-09-20T07-33Z ZTp3RjwQT",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "apotheosis.esm",
+    "name": "apotheosis.esm",
+    "modId": "Apotheosis-12984-1-2-0-1755630770",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "aetheriumxapotheosispatch.esm",
+    "name": "aetheriumxapotheosispatch.esm",
+    "modId": "Aetherium x Apotheosis Patch 18063 1.0 2026-09-11T05-59Z eZwVkcuBo",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "patch-spe-terranarmada.esm",
+    "name": "patch-spe-terranarmada.esm",
+    "modId": "AddOn - SPE x TerranArmada-12330-1-1-0-1780151721",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "svf-freelanes-patch.esm",
+    "name": "svf-freelanes-patch.esm",
+    "modId": "Ship Vendor Framework-10057-1-10-0-1778277983",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nskxftlpatch.esm",
+    "name": "nskxftlpatch.esm",
+    "modId": "NovaSkills x FTL - A Grav Lanes Successor Patch 16422 1.0 2026-08-18T00-07Z kRcAwxoJd",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "cpsyche_packingheat.esm",
+    "name": "cpsyche_packingheat.esm",
+    "modId": "Packing Heat 18193 1.1 2026-09-10T15-12Z ZTp3RjwGZ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vendor overhaul.esm",
+    "name": "vendor overhaul.esm",
+    "modId": "Vendor Overhaul-5179-2-00-1719260549",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "starfarershairstyles.esm",
+    "name": "starfarershairstyles.esm",
+    "modId": "Starfarer's Hairstyles-8421-1-0-7-1750173646",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "rbt_costofspacing.esm",
+    "name": "rbt_costofspacing.esm",
+    "modId": "Cost Of Spacing 11726 2.3 2026-06-25T11-43Z M1kWeww6V",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "novalootoverhaul.esm",
+    "name": "novalootoverhaul.esm",
+    "modId": "Nova Loot Overhaul 18266 1.0 2026-09-20T07-56Z Siqx4gHTD",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ccexpandedloadingscreenentries.esm",
+    "name": "ccexpandedloadingscreenentries.esm",
+    "modId": "Expanded Loading Screen Entries - BA2 Archive 18246 1.1.1 2026-09-21T17-28Z lu7NrMnaG",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "real water hd 2.esm",
+    "name": "real water hd 2.esm",
+    "modId": "Real Water HD 2 1k-10289-1-1-1720855162",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "pleatedskirt.esm",
+    "name": "pleatedskirt.esm",
+    "modId": "PleatedSkirt 1.01 18203 1.01 2026-09-10T21-59Z ID3oOHVni",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zonenoupgrades.esm",
+    "name": "zonenoupgrades.esm",
+    "modId": "Zone No Upgrades 18276 1.0 2026-09-20T01-14Z avXC0s8M1",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_crystalinelandscape.esm",
+    "name": "zyp_crystalinelandscape.esm",
+    "modId": "ZYP Crystaline Landscapes 18254 1.0.0 2026-09-17T11-11Z tmbST8RZt",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "oldeartharsenal.esm",
+    "name": "oldeartharsenal.esm",
+    "modId": "Old Earth Rearmed 13131 2.0.10 2026-08-16T05-44Z LsN5BvmdM",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "oldeartharsenal_thp_weaponoverhaul_patch.esm",
+    "name": "oldeartharsenal_thp_weaponoverhaul_patch.esm",
+    "modId": "Novafield Weapon Overhaul 14993 1.11 2026-07-27T06-54Z qd5Tg9FCc",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ftlgpopatch.esm",
+    "name": "ftlgpopatch.esm",
+    "modId": "FTL GPO Patch 14993 1.0 2026-09-20T05-04Z JIVrWAsMt",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mantisnwefpatch.esm",
+    "name": "mantisnwefpatch.esm",
+    "modId": "KZ Mantis NWEF Patch 14993 1.0 2026-09-20T04-45Z 4Cgtq5QXd",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bedlamstarbornpatch.esm",
+    "name": "bedlamstarbornpatch.esm",
+    "modId": "Bedlam No Hidden Starborn Patch 17802 1.0 2026-09-20T03-33Z 8XBgLNzfQ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "pleatedskirtnwefpatch.esm",
+    "name": "pleatedskirtnwefpatch.esm",
+    "modId": "Pleated Skirt NWEF Patch 14993 1.0 2026-09-20T04-44Z oc1PyZM4m",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "apotheosisgpopatch.esm",
+    "name": "apotheosisgpopatch.esm",
+    "modId": "Apotheosis GPO Patch 14993 1.0 2026-09-20T07-15Z kRcAwxoE8",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zoneclothingpacknwefpatch.esm",
+    "name": "zoneclothingpacknwefpatch.esm",
+    "modId": "Workbench Patch with Upgrades Removed-15814-1-0-1768081409",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "knockdownanimfix.esm",
+    "name": "knockdownanimfix.esm",
+    "modId": "Knockdown Animation Fix 18150 1.0 2026-09-05T20-27Z QgYRFiDPh",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedfollowerbehavior_trackersalliance_compat.esm",
+    "name": "improvedfollowerbehavior_trackersalliance_compat.esm",
+    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedfollowerbehavior_freelanes_compat.esm",
+    "name": "improvedfollowerbehavior_freelanes_compat.esm",
+    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedfollowerbehavior_shatteredspace_compat.esm",
+    "name": "improvedfollowerbehavior_shatteredspace_compat.esm",
+    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedfollowerbehavior_terranarmada_compat.esm",
+    "name": "improvedfollowerbehavior_terranarmada_compat.esm",
+    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "dwn_thelodgeimproved.esm",
+    "name": "dwn_thelodgeimproved.esm",
+    "modId": "The Lodge Improved-14045-1-1-1-1777104527",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "venduntofloor.esm",
+    "name": "venduntofloor.esm",
+    "modId": "Vend Unto Floor-8191-1-1-2-1706996601",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "balanced action figure drops.esm",
+    "name": "balanced action figure drops.esm",
+    "modId": "Balanced Action Figure Drops 18289 1 2026-09-21T08-23Z QgYRFiDjk",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "001odx_antares.esm",
+    "name": "001odx_antares.esm",
+    "modId": "Renegade 17677 1.3a 2026-09-16T18-37Z QgYRFiDEG",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "odx_antares.esm",
+    "name": "odx_antares.esm",
+    "modId": "Antares Renewal 17671 1.0 2026-07-10T00-29Z sVh6UPN6U",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "antaresmsgpatch.esm",
+    "name": "antaresmsgpatch.esm",
+    "modId": "Message Patches 14993 1.0 2026-09-24T14-03Z 4Cgtq5Qna",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sbcmsgpatch.esm",
+    "name": "sbcmsgpatch.esm",
+    "modId": "Message Patches 14993 1.0 2026-09-24T14-03Z 4Cgtq5Qna",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "vacuumsilence.esm",
+    "name": "vacuumsilence.esm",
+    "modId": "Vacuum Silence 2.6 18155 2.6 2026-09-07T05-20Z KeusfolPQ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxakm.esm",
+    "name": "bbxakm.esm",
+    "modId": "Balanced Ballistics x AKM 14993 1.0 2026-07-30T05-32Z GQDkESIX5",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxkbar.esm",
+    "name": "bbxkbar.esm",
+    "modId": "Balanced Ballistics x KBAR 14993 1.0 2026-07-30T05-33Z PEOuI3WLB",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "bbxmk17.esm",
+    "name": "bbxmk17.esm",
+    "modId": "Balanced Ballistics x MK17 Scar 14993 1.0 2026-07-30T05-34Z Clnmd6gEP",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "zyp_exoticlandforms.esm",
+    "name": "zyp_exoticlandforms.esm",
+    "modId": "ZYP Exotic Landforms 18322 1.0.0 2026-09-24T13-21Z avXC0s834",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "final patch.esm",
+    "name": "final patch.esm",
+    "modId": "The Final Patch-12072-1-0-1-1735952773",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "blueprintships-varuuntechnicalinstituteshiphabs.esm",
+    "name": "blueprintships-varuuntechnicalinstituteshiphabs.esm",
+    "modId": "VTI Ship Habs-14947-5-1-2-1760665731",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  }
+]
