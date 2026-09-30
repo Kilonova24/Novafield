@@ -1487,16 +1487,6 @@
   },
   {
     "enabled": true,
-    "id": "zal_mantislair.esm",
-    "name": "zal_mantislair.esm",
-    "modId": "Zal_MantisLair-1.9 13783 1.9 2026-09-08T11-56Z 56289liNz",
-    "locked": false,
-    "data": {
-      "isInvalid": false
-    }
-  },
-  {
-    "enabled": true,
     "id": "mattells cockpits solitude series.esm",
     "name": "mattells cockpits solitude series.esm",
     "modId": "Mattell's Cockpits Solitude Series 12922 3.8 2026-07-11T23-21Z DY4cSq32u",
@@ -2617,16 +2607,6 @@
   },
   {
     "enabled": true,
-    "id": "zal_mantislair-kz_mantis2.esm",
-    "name": "zal_mantislair-kz_mantis2.esm",
-    "modId": "Zal MantisLair KZ Mantis2 13783 1 2026-08-23T23-34Z zBaYm0Tbz",
-    "locked": false,
-    "data": {
-      "isInvalid": false
-    }
-  },
-  {
-    "enabled": true,
     "id": "dwn_outposthabsexpanded.esm",
     "name": "dwn_outposthabsexpanded.esm",
     "modId": "Outpost Habs Expanded-10998-1-8-1726695667",
@@ -3209,7 +3189,7 @@
     "enabled": true,
     "id": "improvedfollowerbehavior.esm",
     "name": "improvedfollowerbehavior.esm",
-    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "modId": "ImprovedFollowerBehavior Combined 2.2.0 18296 2.2.0 2026-09-27T17-33Z DY4cSq3SC",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5029,7 +5009,7 @@
     "enabled": true,
     "id": "improvedfollowerbehavior_trackersalliance_compat.esm",
     "name": "improvedfollowerbehavior_trackersalliance_compat.esm",
-    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "modId": "ImprovedFollowerBehavior Combined 2.2.0 18296 2.2.0 2026-09-27T17-33Z DY4cSq3SC",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5039,7 +5019,7 @@
     "enabled": true,
     "id": "improvedfollowerbehavior_freelanes_compat.esm",
     "name": "improvedfollowerbehavior_freelanes_compat.esm",
-    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "modId": "ImprovedFollowerBehavior Combined 2.2.0 18296 2.2.0 2026-09-27T17-33Z DY4cSq3SC",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5049,7 +5029,7 @@
     "enabled": true,
     "id": "improvedfollowerbehavior_shatteredspace_compat.esm",
     "name": "improvedfollowerbehavior_shatteredspace_compat.esm",
-    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "modId": "ImprovedFollowerBehavior Combined 2.2.0 18296 2.2.0 2026-09-27T17-33Z DY4cSq3SC",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5059,7 +5039,7 @@
     "enabled": true,
     "id": "improvedfollowerbehavior_terranarmada_compat.esm",
     "name": "improvedfollowerbehavior_terranarmada_compat.esm",
-    "modId": "ImprovedFollowerBehavior Combined 2.1.0 18296 2.1.0 2026-09-22T14-42Z QgYRFiDwK",
+    "modId": "ImprovedFollowerBehavior Combined 2.2.0 18296 2.2.0 2026-09-27T17-33Z DY4cSq3SC",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5180,6 +5160,46 @@
     "id": "zyp_exoticlandforms.esm",
     "name": "zyp_exoticlandforms.esm",
     "modId": "ZYP Exotic Landforms 18322 1.0.0 2026-09-24T13-21Z avXC0s834",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "resupply.esm",
+    "name": "resupply.esm",
+    "modId": "Resupply 14031 2.72 2026-09-29T19-01Z sVh6UPNL5",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mantlefreelanes.esm",
+    "name": "mantlefreelanes.esm",
+    "modId": "Mantle Of The Mantis - Free Lanes Update-14611-2-1776444691",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "mantleofthemantis.esm",
+    "name": "mantleofthemantis.esm",
+    "modId": "Mantle Of The Mantis - Free Lanes Update-14611-2-1776444691",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "improvedfollowerbehavior_joinwhenattacked.esm",
+    "name": "improvedfollowerbehavior_joinwhenattacked.esm",
+    "modId": "ImprovedFollowerBehavior Combined 2.2.0 18296 2.2.0 2026-09-27T17-33Z DY4cSq3SC",
     "locked": false,
     "data": {
       "isInvalid": false
