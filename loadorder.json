@@ -5315,6 +5315,16 @@
       "isInvalid": false
     }
   },
+    {
+    "enabled": true,
+    "id": "aurie_templequestfixes.esm",
+    "name": "aurie_templequestfixes.esm",
+    "modId": "Temple Quest Fixes 17829 1.3 2026-09-07T18-38Z AHEeGDPcd",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
   {
     "enabled": true,
     "id": "final patch.esm",
