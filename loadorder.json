@@ -5297,16 +5297,6 @@
   },
   {
     "enabled": true,
-    "id": "sanctuaryhomehab.esm",
-    "name": "sanctuaryhomehab.esm",
-    "modId": "SanctuaryHomeHab 18334 1.03 2026-09-29T18-47Z 56289liFG",
-    "locked": false,
-    "data": {
-      "isInvalid": false
-    }
-  },
-  {
-    "enabled": true,
     "id": "ssttruespace.esm",
     "name": "ssttruespace.esm",
     "modId": "True Space Retained Milky Way 16418 1.08 2026-07-25T13-31Z 56289liMH",
