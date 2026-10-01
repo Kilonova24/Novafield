@@ -3,7 +3,7 @@
     "enabled": true,
     "id": "Starfield.esm",
     "name": "Starfield.esm",
-    "modId": "53_a6_7b_53a67bff-8e4b-4323-b663-a37c96bb4f44",
+    "modId": "Andreja Visual Replacer Loose Files-17271-1-01-1780410236",
     "locked": true
   },
   {
@@ -4517,16 +4517,6 @@
   },
   {
     "enabled": true,
-    "id": "vladimirwatcher.esm",
-    "name": "vladimirwatcher.esm",
-    "modId": "53_a6_7b_53a67bff-8e4b-4323-b663-a37c96bb4f44",
-    "locked": false,
-    "data": {
-      "isInvalid": false
-    }
-  },
-  {
-    "enabled": true,
     "id": "weapondisplaysenhanced.esm",
     "name": "weapondisplaysenhanced.esm",
     "modId": "Weapon Displays Enhanced-8897-1-6-1724578451",
@@ -4859,7 +4849,7 @@
     "enabled": true,
     "id": "novalootoverhaul.esm",
     "name": "novalootoverhaul.esm",
-    "modId": "Nova Loot Overhaul 18266 1.0 2026-09-20T07-56Z Siqx4gHTD",
+    "modId": "Nova Loot Overhaul 18266 1.11 2026-09-29T17-50Z DY4cSq3IS",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5207,6 +5197,126 @@
   },
   {
     "enabled": true,
+    "id": "nova_immersiveeconomy.esm",
+    "name": "nova_immersiveeconomy.esm",
+    "modId": "Immersive Economy 18347 1.0 2026-10-01T06-59Z V3GMAEh8N",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "economycrimestealpatch.esm",
+    "name": "economycrimestealpatch.esm",
+    "modId": "Spacefaring Economy Crime Steal Patch 14993 1.1 2026-09-27T22-36Z roMv7e67a",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "interstellartrade.esm",
+    "name": "interstellartrade.esm",
+    "modId": "InterstellarTrade2.10FullMasterPacked-15947-InterstellarTradev2-10-1774508705",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "lx6r007_booksarebooks.esm",
+    "name": "lx6r007_booksarebooks.esm",
+    "modId": "LX6R_BooksAreBooks 18352 1.0 2026-10-01T13-48Z eZwVkcu5h",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nocolorfilterandnosoundsonmercenarylegendary.esm",
+    "name": "nocolorfilterandnosoundsonmercenarylegendary.esm",
+    "modId": "NoColorFilterAndNoSoundsOnMercenaryLegendary-16565-1-1776332472",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nocolorpulsingandsoundsonmethodicallegendary.esm",
+    "name": "nocolorpulsingandsoundsonmethodicallegendary.esm",
+    "modId": "NoColorPulsingAndSoundsOnMethodicalLegendary-16712-1-1776795143",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "noflashingeffectonbloodthirsty.esm",
+    "name": "noflashingeffectonbloodthirsty.esm",
+    "modId": "NoFlashingEffectOnBloodthirsty-16479-1-1776086734",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nooragefullbodyglowithongrenadierboostpack.esm",
+    "name": "nooragefullbodyglowithongrenadierboostpack.esm",
+    "modId": "NoOrageFullbodyGlowithOnGrenadierBoostpack-16566-1-1776332474",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nosoundeffectonadvancedtargeting.esm",
+    "name": "nosoundeffectonadvancedtargeting.esm",
+    "modId": "NoSoundEffectOnAdvancedTargeting-16478-1-1776085034",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "notealeffectoncharacteronaerialadvantage.esm",
+    "name": "notealeffectoncharacteronaerialadvantage.esm",
+    "modId": "NoTealEffectOnCharacterOnAerialAdvantage-16559-1-1776321080",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "sanctuaryhomehab.esm",
+    "name": "sanctuaryhomehab.esm",
+    "modId": "SanctuaryHomeHab 18334 1.03 2026-09-29T18-47Z 56289liFG",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "ssttruespace.esm",
+    "name": "ssttruespace.esm",
+    "modId": "True Space Retained Milky Way 16418 1.08 2026-07-25T13-31Z 56289liMH",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
     "id": "final patch.esm",
     "name": "final patch.esm",
     "modId": "The Final Patch-12072-1-0-1-1735952773",
@@ -5220,6 +5330,15 @@
     "id": "blueprintships-varuuntechnicalinstituteshiphabs.esm",
     "name": "blueprintships-varuuntechnicalinstituteshiphabs.esm",
     "modId": "VTI Ship Habs-14947-5-1-2-1760665731",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "blueprintships-sfbgs050.esm",
+    "name": "blueprintships-sfbgs050.esm",
     "locked": false,
     "data": {
       "isInvalid": false
