@@ -19,7 +19,7 @@ Novafield is the product of a year of curation: countless bug fixes, 50+ custom 
 - **Complete ship combat overhaul** covering everything from ship speed to weapon behavior. Dogfights actually feel like flying.
 - **Weapon overhaul** that makes most weapons viable. Particle beams aren't the only useful weapons anymore.
 - **Custom enemy and player health overhaul** built for this list to cut down on bullet sponges.
-- **19 mod added weapons**, each with balance patches so nothing outclasses the rest of the arsenal.
+- **19 mod added weapons**, each with balance patches so nothing outclasses the rest.
 
 ## 🟠 Progression and Systems
 
