@@ -187,3 +187,5 @@ Note: For the Suit Display settings to work you need to be on the Hide Spacesuit
 * Suit Display: Spaceships - Casual
 
 Note: To decrease/ remove the stutter when grav jumping with the new seamless grav jump mod, Disable Auto Save on Travel at the bottom of the Gameplay Settings.
+
+## This modlist uses [Luma - Native HDR](https://www.nexusmods.com/starfield/mods/4821). To make the game less dark, bump up the Brightness in the Display settings. I recommend tuning the Display settings to make the game look how you want it to.
