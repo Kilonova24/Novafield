@@ -117,16 +117,6 @@
   },
   {
     "enabled": true,
-    "id": "qwertys mini fixes for shattered space.esm",
-    "name": "qwertys mini fixes for shattered space.esm",
-    "modId": "Qwertys Mini Fixes For Shattered Space 18248 1.1.0 2026-09-20T10-41Z i2dzCnqaf",
-    "locked": false,
-    "data": {
-      "isInvalid": false
-    }
-  },
-  {
-    "enabled": true,
     "id": "randomnpcheights.esm",
     "name": "randomnpcheights.esm",
     "modId": "NPC Height Variation Mod (FOMOD)-7466-1-0-3-1704318618",
@@ -1589,7 +1579,7 @@
     "enabled": true,
     "id": "crimsonx_z.esm",
     "name": "crimsonx_z.esm",
-    "modId": "CrimsonX (ZBB)-9097-2-0-1738719087",
+    "modId": "Crimson X (Full Master) 9097 2.1 2026-09-29T07-13Z PEOuI3WvJ",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -4749,7 +4739,7 @@
     "enabled": true,
     "id": "aetherium.esm",
     "name": "aetherium.esm",
-    "modId": "Aetherium 18063 1.11 2026-09-20T07-33Z ZTp3RjwQT",
+    "modId": "Aetherium - No Skills Menu Files 18063 1.11 2026-10-11T04-29Z KeusfolK1",
     "locked": false,
     "data": {
       "isInvalid": false
@@ -5305,11 +5295,131 @@
       "isInvalid": false
     }
   },
-    {
+  {
     "enabled": true,
     "id": "aurie_templequestfixes.esm",
     "name": "aurie_templequestfixes.esm",
     "modId": "Temple Quest Fixes 17829 1.3 2026-09-07T18-38Z AHEeGDPcd",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "the rock refit.esm",
+    "name": "the rock refit.esm",
+    "modId": "The Rock Refit 18389 1.0 2026-10-07T03-32Z AHEeGDP5t",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "x2357primeweaponskinsmgp.esm",
+    "name": "x2357primeweaponskinsmgp.esm",
+    "modId": "X2357's Prime Weapon Skins - MGP 18416 1 2026-10-10T07-27Z kRcAwxopG",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "simplelegendaryextraction.esm",
+    "name": "simplelegendaryextraction.esm",
+    "modId": "Simple Legendary Extraction 18401 1.0 2026-10-10T22-09Z oc1PyZMoE",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "slexstarfieldsmithingpatch.esm",
+    "name": "slexstarfieldsmithingpatch.esm",
+    "modId": "SLE x Starfield Smithing Patch 18401 1.0 2026-10-10T22-09Z 4Cgtq5Q4x",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "accurateads.esm",
+    "name": "accurateads.esm",
+    "modId": "Accurate Aiming-5558-2-1-0-1775685027",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "fieldos_deadmansslate.esm",
+    "name": "fieldos_deadmansslate.esm",
+    "modId": "Dead Mans Slate 18156 1.2.0 2026-10-06T18-01Z Siqx4gHrB",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "idg_elegant_clothing.esm",
+    "name": "idg_elegant_clothing.esm",
+    "modId": "IDG Elegant ClothingV1.1 18364 1.1 2026-10-04T17-43Z kRcAwxoUZ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "idg_extra_long_eyelash.esm",
+    "name": "idg_extra_long_eyelash.esm",
+    "modId": "IDG Extra Long Eyelash Main 18395 1 2026-10-08T09-31Z F5ipYCSfh",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nimbleships_fastcruise.esm",
+    "name": "nimbleships_fastcruise.esm",
+    "modId": "Nimble Ships - Fast Cruise Speed-17133-1-12-1780590669",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "nweftextilertable.esm",
+    "name": "nweftextilertable.esm",
+    "modId": "Workbench Patch with Upgrades Removed-15814-1-0-1768081409",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "outrora_poi_akila.esm",
+    "name": "outrora_poi_akila.esm",
+    "modId": "Outrora Poi Akila 18227 1.11 2026-09-13T06-26Z tmbST8RXJ",
+    "locked": false,
+    "data": {
+      "isInvalid": false
+    }
+  },
+  {
+    "enabled": true,
+    "id": "shipworkshopassignments.esm",
+    "name": "shipworkshopassignments.esm",
+    "modId": "Ship Crew Assignments 12744 5.0 2026-10-02T10-19Z yxZI1Re49",
     "locked": false,
     "data": {
       "isInvalid": false
