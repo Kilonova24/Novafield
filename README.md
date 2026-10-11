@@ -181,6 +181,7 @@ You can start the main quest in a few ways:
 * Affliction Prognosis - Advanced
 * Sustenance - OFF (Peak Performance handles the sustenance system separately)
 * Environmental Damage & Afflictions - Advanced
+* There are Loot Scarcity gameplay settings that you can tune to your liking.
 
 Note: For the Suit Display settings to work you need to be on the Hide Spacesuit in Settlements setting from your Spacesuit inventory UI.
 * Suit Display: Settlements - Prepared 
