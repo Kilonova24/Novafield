@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kilonova24/Novafield/refs/heads/main/Cover4WP.webp",
       "readme": "https://github.com/Kilonova24/Novafield/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_b10b95d5-5e0a-4e5d-b50d-59fa8d308ac5",
+      "download": "https://authored-files.wabbajack.org/Novafield.wabbajack_e4c34358-5eef-49f0-9df1-c63db3f936ba",
       "machineURL": "Novafield",
       "discordURL": "https://discord.gg/KM2eMWr2Vc",
       "websiteURL": "",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "XidQfBAsKJE=",
-      "Size": 14400871,
-      "NumberOfArchives": 895,
-      "SizeOfArchives": 221687168700,
-      "NumberOfInstalledFiles": 18186,
-      "SizeOfInstalledFiles": 239895720182,
-      "TotalSize": 461582888882
+      "Hash": "wPOeMrXejCQ=",
+      "Size": 14407111,
+      "NumberOfArchives": 903,
+      "SizeOfArchives": 223057423413,
+      "NumberOfInstalledFiles": 18211,
+      "SizeOfInstalledFiles": 241274489639,
+      "TotalSize": 464331913052
     },
-    "version": "1.65",
+    "version": "1.66",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-02T22:31:10.5327989Z",
+    "dateUpdated": "2026-10-11T05:10:26.8078723Z",
     "repositoryName": ""
   }
 ]
