@@ -32,7 +32,7 @@ Novafield is the product of a year of curation: countless bug fixes, 50+ custom 
 
 - **Hundreds of new immersive clothing items**, worn by NPCs as well as the player.
 - **Lore friendly ship part mods** such as Stroud Premium Edition, Varuun Technical Institute, Hopetech Ship Hab Expansion, and many more.
-- **Performance friendly visual overhaul** using LUTs, custom lighting, and tuned INI settings.
+- **Performance friendly visual overhaul** using LUMA - Native HDR, custom lighting, and tuned INI settings.
 
 ---
 
